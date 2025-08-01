@@ -2,8 +2,6 @@
 # This is a simple calculator program that performs basic arithmetic operations.
 # It allows the user to choose an operation and input two numbers,
 # then it performs the operation and displays the result.
-
-
 def add(x, y):
     return x + y
 

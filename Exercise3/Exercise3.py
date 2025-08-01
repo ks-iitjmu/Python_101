@@ -1,3 +1,6 @@
+# Kunal Sharma IIT Jammu
+# Kon Banega Crorepati - 2024 Edition
+# A Python implementation of the popular quiz game with lifelines and prize ladder
 import random
 import time
 import json
@@ -35,9 +38,7 @@ class KBCGame:
         self.score = 0
 
     def _load_questions(self) -> List[Dict]:
-        """Load questions from JSON files"""
         all_questions = []
-        # Get the directory where this script is located
         script_dir = os.path.dirname(os.path.abspath(__file__))
         files = ["easyQues.json", "mediumQues.json", "hardQues.json"]
 
@@ -59,19 +60,16 @@ class KBCGame:
 
     @staticmethod
     def clear_console():
-        """Clear the console screen"""
         os.system("cls" if os.name == "nt" else "clear")
 
     @staticmethod
     def display_header():
-        """Display game header"""
         print("=" * 60)
         print("   🎯 KON BANEGA CROREPATI - 2024 EDITION 🎯")
         print("=" * 60)
         print()
 
     def show_prize_ladder(self, current_level: int):
-        """Display the prize ladder"""
         print("\n💰 PRIZE LADDER:")
         print("-" * 40)
         for i, prize in enumerate(reversed(self.prizes)):
@@ -82,7 +80,6 @@ class KBCGame:
         print("-" * 40)
 
     def _use_5050(self, question: Dict) -> List[str]:
-        """Implement 50-50 lifeline"""
         correct = question["answer"]
         options = ["A", "B", "C", "D"]
         options.remove(correct)
@@ -98,20 +95,14 @@ class KBCGame:
         return new_options
 
     def _use_audience_poll(self, question: Dict):
-        """Implement audience poll lifeline"""
         correct = question["answer"]
-
-        # Base random distribution
         poll = {opt: random.randint(15, 35) for opt in ["A", "B", "C", "D"]}
-
-        # Adjust correct answer based on difficulty
         difficulty_bonus = {
             "easy": random.randint(30, 50),
             "medium": random.randint(20, 40),
             "hard": random.randint(10, 30),
         }
         poll[correct] += difficulty_bonus.get(question.get("level", "medium"), 25)
-
         total = sum(poll.values())
         print("\n📊 AUDIENCE POLL RESULTS:")
         print("-" * 25)
@@ -122,7 +113,6 @@ class KBCGame:
         print("-" * 25)
 
     def _use_phone_friend(self, question: Dict):
-        """Implement phone a friend lifeline"""
         correct = question["answer"]
         friends = ["Rahul", "Priya", "Amit", "Sneha", "Vikash"]
         friend = random.choice(friends)
@@ -146,7 +136,6 @@ class KBCGame:
             print(f"{friend}: I think it might be {suggested}, but I'm not very sure.")
 
     def _use_ask_expert(self, question: Dict):
-        """Implement ask the expert lifeline"""
         correct = question["answer"]
         expert_name = "Dr. Sharma"
 
@@ -161,7 +150,6 @@ class KBCGame:
     def _handle_lifeline(
         self, question: Dict, lifelines_copy: Dict, available_lifelines: List[str]
     ) -> List[str]:
-        """Handle lifeline usage"""
         print("\nAvailable lifelines:")
         for i, lifeline in enumerate(available_lifelines, 1):
             print(f"{i}. {lifeline}")
@@ -199,7 +187,6 @@ class KBCGame:
             return question["options"]
 
     def ask_question(self, question: Dict, question_num: int) -> Optional[bool]:
-        """Ask a single question and handle user input"""
         lifelines_copy = self.lifelines.copy()
         current_options = question["options"][:]
 
@@ -245,7 +232,6 @@ class KBCGame:
                 time.sleep(1)
 
     def get_safe_amount(self) -> int:
-        """Calculate safe amount based on current score"""
         safe_amount = 0
         for safe in reversed(self.safe_havens):
             if self.score > 0 and self.prizes[self.score - 1] >= safe:
@@ -254,7 +240,6 @@ class KBCGame:
         return safe_amount
 
     def play_game(self):
-        """Main game loop"""
         self.clear_console()
         self.display_header()
 
@@ -272,7 +257,7 @@ class KBCGame:
         for question in selected_questions:
             result = self.ask_question(question.copy(), self.score + 1)
 
-            if result is None:  # Quit
+            if result is None:
                 safe_amount = self.get_safe_amount()
                 self.clear_console()
                 self.display_header()
@@ -280,7 +265,7 @@ class KBCGame:
                 print(f"💰 You take home: Rs. {safe_amount:,}")
                 break
 
-            elif result:  # Correct answer
+            elif result:
                 print("✅ Correct Answer!")
                 self.score += 1
 
@@ -296,7 +281,7 @@ class KBCGame:
                     print(f"💰 You have won Rs. {self.prizes[self.score-1]:,}")
                     input("\nPress Enter to continue to the next question...")
 
-            else:  # Wrong answer
+            else:
                 print(f"❌ Wrong Answer! The correct answer was {question['answer']}")
                 safe_amount = self.get_safe_amount()
                 input("\nPress Enter to see final results...")

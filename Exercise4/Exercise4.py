@@ -1,65 +1,89 @@
+# Kunal Sharma IIT Jammu
+# Exercise 4: Enhanced Secret Code Language Translator
+# This program encodes and decodes messages using a secret Algo.
 import random
 import string
 
+
 def generate_random_chars(n=3):
-    """Generate n random characters"""
-    return ''.join(random.choices(string.ascii_lowercase, k=n))
+    return "".join(random.choices(string.ascii_letters + string.digits, k=n))
+
+
+def shift_characters(word, offset=3):
+    shifted_word = "".join(
+        (
+            chr((ord(char) - ord("a") + offset) % 26 + ord("a"))
+            if char.islower()
+            else (
+                chr((ord(char) - ord("A") + offset) % 26 + ord("A"))
+                if char.isupper()
+                else char
+            )
+        )
+        for char in word
+    )
+    return shifted_word
+
 
 def encode_word(word):
-    """Encode a single word using the secret code rules"""
     if len(word) >= 3:
-        # Remove first letter and append at end
-        modified_word = word[1:] + word[0]
-        # Add 3 random characters at start and end
-        random_start = generate_random_chars(3)
-        random_end = generate_random_chars(3)
-        return random_start + modified_word + random_end
+        reversed_word = word[::-1]
+        shifted_word = shift_characters(reversed_word, offset=5)
+        random_start = generate_random_chars(4)
+        random_end = generate_random_chars(4)
+        return random_start + shifted_word + random_end
     else:
-        # Simply reverse the string
-        return word[::-1]
+        return shift_characters(word[::-1], offset=5)
+
 
 def decode_word(word):
-    """Decode a single word using the secret code rules"""
     if len(word) < 3:
-        # Reverse it
-        return word[::-1]
+        return shift_characters(word[::-1], offset=-5)
     else:
-        # Remove 3 characters from start and end
-        core_word = word[3:-3]
-        # Remove last letter and append to beginning
-        if len(core_word) > 0:
-            return core_word[-1] + core_word[:-1]
-        return core_word
+        core_word = word[4:-4]
+        unshifted_word = shift_characters(core_word, offset=-5)
+        return unshifted_word[::-1]
+
 
 def encode_message(message):
-    """Encode entire message"""
     words = message.split()
     encoded_words = [encode_word(word) for word in words]
-    return ' '.join(encoded_words)
+    encoded_message = "".join(
+        f"{len(word)}{encoded_word}" for word, encoded_word in zip(words, encoded_words)
+    )
+    return encoded_message
+
 
 def decode_message(message):
-    """Decode entire message"""
-    words = message.split()
-    decoded_words = [decode_word(word) for word in words]
-    return ' '.join(decoded_words)
+    decoded_words = []
+    i = 0
+    while i < len(message):
+        word_length = int(message[i])
+        i += 1
+        encoded_word = message[i : i + word_length + 8]
+        i += word_length + 8
+        decoded_words.append(decode_word(encoded_word))
+    return " ".join(decoded_words)
+
 
 def main():
-    print("Secret Code Language Translator")
+    print("Enhanced Secret Code Language Translator")
     print("1. Encode a message")
     print("2. Decode a message")
-    
+
     choice = input("Enter your choice (1 or 2): ").strip()
-    
-    if choice == '1':
+
+    if choice == "1":
         message = input("Enter the message to encode: ").strip()
         encoded = encode_message(message)
         print(f"Encoded message: {encoded}")
-    elif choice == '2':
+    elif choice == "2":
         message = input("Enter the message to decode: ").strip()
         decoded = decode_message(message)
         print(f"Decoded message: {decoded}")
     else:
         print("Invalid choice! Please enter 1 or 2.")
+
 
 if __name__ == "__main__":
     main()
