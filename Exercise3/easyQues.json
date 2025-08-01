@@ -1,0 +1,2213 @@
+[
+    {
+        "question": "What is the capital of India?",
+        "options": [
+            "A) Mumbai",
+            "B) New Delhi",
+            "C) Kolkata",
+            "D) Chennai"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "A) Venus",
+            "B) Jupiter",
+            "C) Mars",
+            "D) Saturn"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "How many days are there in a leap year?",
+        "options": [
+            "A) 365",
+            "B) 366",
+            "C) 364",
+            "D) 367"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest ocean on Earth?",
+        "options": [
+            "A) Atlantic Ocean",
+            "B) Indian Ocean",
+            "C) Arctic Ocean",
+            "D) Pacific Ocean"
+        ],
+        "answer": "D",
+        "level": "easy"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "options": [
+            "A) Yuan",
+            "B) Won",
+            "C) Yen",
+            "D) Rupee"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which animal is known as the King of the Jungle?",
+        "options": [
+            "A) Tiger",
+            "B) Lion",
+            "C) Elephant",
+            "D) Leopard"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many continents are there in the world?",
+        "options": [
+            "A) 5",
+            "B) 6",
+            "C) 7",
+            "D) 8"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the smallest country in the world?",
+        "options": [
+            "A) Monaco",
+            "B) Vatican City",
+            "C) San Marino",
+            "D) Liechtenstein"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "options": [
+            "A) Elephant",
+            "B) Blue Whale",
+            "C) Giraffe",
+            "D) Hippopotamus"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": [
+            "A) Oxygen",
+            "B) Nitrogen",
+            "C) Carbon Dioxide",
+            "D) Hydrogen"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "How many colors are there in a rainbow?",
+        "options": [
+            "A) 5",
+            "B) 6",
+            "C) 7",
+            "D) 8"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the fastest land animal?",
+        "options": [
+            "A) Lion",
+            "B) Cheetah",
+            "C) Leopard",
+            "D) Tiger"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "options": [
+            "A) 90°C",
+            "B) 100°C",
+            "C) 110°C",
+            "D) 120°C"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which organ in the human body produces insulin?",
+        "options": [
+            "A) Liver",
+            "B) Kidney",
+            "C) Pancreas",
+            "D) Heart"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "How many sides does a triangle have?",
+        "options": [
+            "A) 2",
+            "B) 3",
+            "C) 4",
+            "D) 5"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the national bird of India?",
+        "options": [
+            "A) Eagle",
+            "B) Sparrow",
+            "C) Peacock",
+            "D) Parrot"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What is the largest state in India by area?",
+        "options": [
+            "A) Maharashtra",
+            "B) Rajasthan",
+            "C) Uttar Pradesh",
+            "D) Madhya Pradesh"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which vitamin is produced when skin is exposed to sunlight?",
+        "options": [
+            "A) Vitamin A",
+            "B) Vitamin B",
+            "C) Vitamin C",
+            "D) Vitamin D"
+        ],
+        "answer": "D",
+        "level": "easy"
+    },
+    {
+        "question": "How many bones are there in an adult human body?",
+        "options": [
+            "A) 206",
+            "B) 208",
+            "C) 210",
+            "D) 212"
+        ],
+        "answer": "A",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the tallest mountain in the world?",
+        "options": [
+            "A) K2",
+            "B) Mount Everest",
+            "C) Kangchenjunga",
+            "D) Lhotse"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What is the freezing point of water?",
+        "options": [
+            "A) -1°C",
+            "B) 0°C",
+            "C) 1°C",
+            "D) 2°C"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the longest river in the world?",
+        "options": [
+            "A) Amazon",
+            "B) Nile",
+            "C) Ganges",
+            "D) Mississippi"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many legs does a spider have?",
+        "options": [
+            "A) 6",
+            "B) 8",
+            "C) 10",
+            "D) 12"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the national flower of India?",
+        "options": [
+            "A) Rose",
+            "B) Jasmine",
+            "C) Lotus",
+            "D) Sunflower"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "options": [
+            "A) Sydney",
+            "B) Melbourne",
+            "C) Canberra",
+            "D) Perth"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which gas makes up most of the Earth's atmosphere?",
+        "options": [
+            "A) Oxygen",
+            "B) Carbon Dioxide",
+            "C) Nitrogen",
+            "D) Hydrogen"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "How many minutes are there in an hour?",
+        "options": [
+            "A) 50",
+            "B) 60",
+            "C) 70",
+            "D) 80"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the smallest planet in our solar system?",
+        "options": [
+            "A) Mercury",
+            "B) Venus",
+            "C) Mars",
+            "D) Pluto"
+        ],
+        "answer": "A",
+        "level": "easy"
+    },
+    {
+        "question": "What do bees collect from flowers?",
+        "options": [
+            "A) Water",
+            "B) Nectar",
+            "C) Seeds",
+            "D) Leaves"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which shape has four equal sides?",
+        "options": [
+            "A) Rectangle",
+            "B) Triangle",
+            "C) Square",
+            "D) Circle"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What is the main source of energy for Earth?",
+        "options": [
+            "A) Moon",
+            "B) Sun",
+            "C) Stars",
+            "D) Wind"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many hours are there in a day?",
+        "options": [
+            "A) 22",
+            "B) 23",
+            "C) 24",
+            "D) 25"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the hardest natural substance?",
+        "options": [
+            "A) Gold",
+            "B) Iron",
+            "C) Diamond",
+            "D) Silver"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What is the capital of France?",
+        "options": [
+            "A) London",
+            "B) Berlin",
+            "C) Madrid",
+            "D) Paris"
+        ],
+        "answer": "D",
+        "level": "easy"
+    },
+    {
+        "question": "Which bird is a symbol of peace?",
+        "options": [
+            "A) Eagle",
+            "B) Dove",
+            "C) Crow",
+            "D) Sparrow"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many wheels does a bicycle have?",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which season comes after winter?",
+        "options": [
+            "A) Summer",
+            "B) Autumn",
+            "C) Spring",
+            "D) Monsoon"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "options": [
+            "A) Heart",
+            "B) Liver",
+            "C) Brain",
+            "D) Skin"
+        ],
+        "answer": "D",
+        "level": "easy"
+    },
+    {
+        "question": "Which metal is liquid at room temperature?",
+        "options": [
+            "A) Iron",
+            "B) Gold",
+            "C) Mercury",
+            "D) Silver"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "How many seconds are there in a minute?",
+        "options": [
+            "A) 50",
+            "B) 60",
+            "C) 70",
+            "D) 80"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the national animal of India?",
+        "options": [
+            "A) Lion",
+            "B) Elephant",
+            "C) Tiger",
+            "D) Leopard"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What do we call a baby cat?",
+        "options": [
+            "A) Puppy",
+            "B) Kitten",
+            "C) Cub",
+            "D) Foal"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the fastest bird in the world?",
+        "options": [
+            "A) Eagle",
+            "B) Falcon",
+            "C) Hawk",
+            "D) Ostrich"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many months have 31 days?",
+        "options": [
+            "A) 6",
+            "B) 7",
+            "C) 8",
+            "D) 9"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which fruit is known as the 'King of Fruits'?",
+        "options": [
+            "A) Apple",
+            "B) Mango",
+            "C) Orange",
+            "D) Banana"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What is the capital of the United States?",
+        "options": [
+            "A) New York",
+            "B) Los Angeles",
+            "C) Washington D.C.",
+            "D) Chicago"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which instrument is used to measure temperature?",
+        "options": [
+            "A) Barometer",
+            "B) Thermometer",
+            "C) Hydrometer",
+            "D) Speedometer"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many players are there in a cricket team?",
+        "options": [
+            "A) 10",
+            "B) 11",
+            "C) 12",
+            "D) 13"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the smallest bone in the human body?",
+        "options": [
+            "A) Stapes",
+            "B) Femur",
+            "C) Tibia",
+            "D) Radius"
+        ],
+        "answer": "A",
+        "level": "easy"
+    },
+    {
+        "question": "What do we call a group of lions?",
+        "options": [
+            "A) Pack",
+            "B) Herd",
+            "C) Pride",
+            "D) Flock"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest planet in our solar system?",
+        "options": [
+            "A) Saturn",
+            "B) Jupiter",
+            "C) Neptune",
+            "D) Uranus"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": [
+            "A) H2O",
+            "B) CO2",
+            "C) NaCl",
+            "D) O2"
+        ],
+        "answer": "A",
+        "level": "easy"
+    },
+    {
+        "question": "How many teeth does an adult human normally have?",
+        "options": [
+            "A) 28",
+            "B) 30",
+            "C) 32",
+            "D) 34"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the longest bone in the human body?",
+        "options": [
+            "A) Tibia",
+            "B) Femur",
+            "C) Humerus",
+            "D) Radius"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "options": [
+            "A) Toronto",
+            "B) Vancouver",
+            "C) Ottawa",
+            "D) Montreal"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which blood type is known as the universal donor?",
+        "options": [
+            "A) A+",
+            "B) B+",
+            "C) AB+",
+            "D) O-"
+        ],
+        "answer": "D",
+        "level": "easy"
+    },
+    {
+        "question": "How many chambers does a human heart have?",
+        "options": [
+            "A) 2",
+            "B) 3",
+            "C) 4",
+            "D) 5"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the smallest state in India by area?",
+        "options": [
+            "A) Sikkim",
+            "B) Goa",
+            "C) Tripura",
+            "D) Manipur"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What do we call a baby horse?",
+        "options": [
+            "A) Colt",
+            "B) Foal",
+            "C) Pony",
+            "D) Stallion"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the most abundant gas in Earth's atmosphere?",
+        "options": [
+            "A) Oxygen",
+            "B) Carbon Dioxide",
+            "C) Nitrogen",
+            "D) Argon"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "How many sides does a hexagon have?",
+        "options": [
+            "A) 5",
+            "B) 6",
+            "C) 7",
+            "D) 8"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which organ pumps blood throughout the body?",
+        "options": [
+            "A) Liver",
+            "B) Lungs",
+            "C) Heart",
+            "D) Kidney"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "options": [
+            "A) Sahara",
+            "B) Gobi",
+            "C) Kalahari",
+            "D) Antarctica"
+        ],
+        "answer": "D",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the national sport of India?",
+        "options": [
+            "A) Cricket",
+            "B) Hockey",
+            "C) Football",
+            "D) Kabaddi"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many strings does a standard guitar have?",
+        "options": [
+            "A) 4",
+            "B) 5",
+            "C) 6",
+            "D) 7"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the hottest planet in our solar system?",
+        "options": [
+            "A) Mercury",
+            "B) Venus",
+            "C) Mars",
+            "D) Jupiter"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What is the study of earthquakes called?",
+        "options": [
+            "A) Geology",
+            "B) Seismology",
+            "C) Meteorology",
+            "D) Astronomy"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the deepest ocean trench?",
+        "options": [
+            "A) Puerto Rico Trench",
+            "B) Java Trench",
+            "C) Mariana Trench",
+            "D) Peru-Chile Trench"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "How many eyes does a spider typically have?",
+        "options": [
+            "A) 2",
+            "B) 4",
+            "C) 6",
+            "D) 8"
+        ],
+        "answer": "D",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest mammal on land?",
+        "options": [
+            "A) Rhinoceros",
+            "B) Hippopotamus",
+            "C) Giraffe",
+            "D) Elephant"
+        ],
+        "answer": "D",
+        "level": "easy"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+            "A) Go",
+            "B) Au",
+            "C) Ag",
+            "D) Gd"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the longest river in India?",
+        "options": [
+            "A) Yamuna",
+            "B) Brahmaputra",
+            "C) Ganges",
+            "D) Godavari"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "How many sides does an octagon have?",
+        "options": [
+            "A) 6",
+            "B) 7",
+            "C) 8",
+            "D) 9"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the fastest fish in the ocean?",
+        "options": [
+            "A) Tuna",
+            "B) Marlin",
+            "C) Sailfish",
+            "D) Shark"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What is the capital of Russia?",
+        "options": [
+            "A) St. Petersburg",
+            "B) Moscow",
+            "C) Kiev",
+            "D) Minsk"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the primary color that cannot be made by mixing other colors?",
+        "options": [
+            "A) Green",
+            "B) Orange",
+            "C) Purple",
+            "D) Red"
+        ],
+        "answer": "D",
+        "level": "easy"
+    },
+    {
+        "question": "How many days are there in February during a non-leap year?",
+        "options": [
+            "A) 27",
+            "B) 28",
+            "C) 29",
+            "D) 30"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest bird in the world?",
+        "options": [
+            "A) Eagle",
+            "B) Penguin",
+            "C) Ostrich",
+            "D) Albatross"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What do we call a baby cow?",
+        "options": [
+            "A) Foal",
+            "B) Lamb",
+            "C) Calf",
+            "D) Kid"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the most spoken language in the world?",
+        "options": [
+            "A) English",
+            "B) Spanish",
+            "C) Mandarin Chinese",
+            "D) Hindi"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "How many zeros are there in one million?",
+        "options": [
+            "A) 4",
+            "B) 5",
+            "C) 6",
+            "D) 7"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the coldest continent?",
+        "options": [
+            "A) Asia",
+            "B) Antarctica",
+            "C) Europe",
+            "D) North America"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What is the main ingredient in bread?",
+        "options": [
+            "A) Rice",
+            "B) Wheat",
+            "C) Corn",
+            "D) Barley"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the nearest star to Earth?",
+        "options": [
+            "A) Proxima Centauri",
+            "B) Alpha Centauri",
+            "C) Sun",
+            "D) Sirius"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "How many wings does a butterfly have?",
+        "options": [
+            "A) 2",
+            "B) 3",
+            "C) 4",
+            "D) 6"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest country by area?",
+        "options": [
+            "A) Canada",
+            "B) China",
+            "C) United States",
+            "D) Russia"
+        ],
+        "answer": "D",
+        "level": "easy"
+    },
+    {
+        "question": "What is the currency of the United Kingdom?",
+        "options": [
+            "A) Euro",
+            "B) Dollar",
+            "C) Pound",
+            "D) Franc"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which sense is associated with the nose?",
+        "options": [
+            "A) Taste",
+            "B) Smell",
+            "C) Touch",
+            "D) Hearing"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many players are on a basketball team on the court?",
+        "options": [
+            "A) 4",
+            "B) 5",
+            "C) 6",
+            "D) 7"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the smallest unit of matter?",
+        "options": [
+            "A) Molecule",
+            "B) Atom",
+            "C) Cell",
+            "D) Electron"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What do we call a group of fish?",
+        "options": [
+            "A) Herd",
+            "B) Flock",
+            "C) School",
+            "D) Pack"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest island in the world?",
+        "options": [
+            "A) Madagascar",
+            "B) Greenland",
+            "C) New Guinea",
+            "D) Borneo"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many letters are there in the English alphabet?",
+        "options": [
+            "A) 24",
+            "B) 25",
+            "C) 26",
+            "D) 27"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the most common blood type?",
+        "options": [
+            "A) A+",
+            "B) B+",
+            "C) O+",
+            "D) AB+"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What is the capital of Brazil?",
+        "options": [
+            "A) Rio de Janeiro",
+            "B) São Paulo",
+            "C) Brasília",
+            "D) Salvador"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the lightest metal?",
+        "options": [
+            "A) Aluminum",
+            "B) Lithium",
+            "C) Magnesium",
+            "D) Titanium"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many minutes are there in 2 hours?",
+        "options": [
+            "A) 100",
+            "B) 110",
+            "C) 120",
+            "D) 130"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the most abundant element in the universe?",
+        "options": [
+            "A) Oxygen",
+            "B) Carbon",
+            "C) Hydrogen",
+            "D) Helium"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What do we call a baby sheep?",
+        "options": [
+            "A) Calf",
+            "B) Lamb",
+            "C) Kid",
+            "D) Foal"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the longest wall in the world?",
+        "options": [
+            "A) Berlin Wall",
+            "B) Great Wall of China",
+            "C) Hadrian's Wall",
+            "D) Western Wall"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which vitamin is known as the 'sunshine vitamin'?",
+        "options": [
+            "A) Vitamin A",
+            "B) Vitamin C",
+            "C) Vitamin D",
+            "D) Vitamin E"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What is the chemical symbol for iron?",
+        "options": [
+            "A) Ir",
+            "B) Fe",
+            "C) In",
+            "D) I"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many sides does a pentagon have?",
+        "options": [
+            "A) 4",
+            "B) 5",
+            "C) 6",
+            "D) 7"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the capital of Egypt?",
+        "options": [
+            "A) Alexandria",
+            "B) Cairo",
+            "C) Giza",
+            "D) Luxor"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What do we call a baby elephant?",
+        "options": [
+            "A) Cub",
+            "B) Calf",
+            "C) Foal",
+            "D) Kid"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which planet is closest to the Sun?",
+        "options": [
+            "A) Venus",
+            "B) Earth",
+            "C) Mercury",
+            "D) Mars"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "How many legs does an ant have?",
+        "options": [
+            "A) 4",
+            "B) 6",
+            "C) 8",
+            "D) 10"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest waterfall in the world?",
+        "options": [
+            "A) Niagara Falls",
+            "B) Victoria Falls",
+            "C) Angel Falls",
+            "D) Iguazu Falls"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What is the main gas in the air we breathe?",
+        "options": [
+            "A) Oxygen",
+            "B) Carbon Dioxide",
+            "C) Nitrogen",
+            "D) Hydrogen"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which organ is responsible for filtering blood?",
+        "options": [
+            "A) Heart",
+            "B) Liver",
+            "C) Lungs",
+            "D) Kidneys"
+        ],
+        "answer": "D",
+        "level": "easy"
+    },
+    {
+        "question": "How many days are there in a week?",
+        "options": [
+            "A) 6",
+            "B) 7",
+            "C) 8",
+            "D) 9"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the fastest animal in water?",
+        "options": [
+            "A) Dolphin",
+            "B) Shark",
+            "C) Sailfish",
+            "D) Tuna"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What is the largest lake in the world?",
+        "options": [
+            "A) Lake Superior",
+            "B) Caspian Sea",
+            "C) Lake Victoria",
+            "D) Lake Baikal"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the national tree of India?",
+        "options": [
+            "A) Neem",
+            "B) Banyan",
+            "C) Mango",
+            "D) Peepal"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many bones are there in a newborn baby?",
+        "options": [
+            "A) 206",
+            "B) 270",
+            "C) 300",
+            "D) 350"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the smallest mammal in the world?",
+        "options": [
+            "A) Shrew",
+            "B) Bat",
+            "C) Mouse",
+            "D) Hamster"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What is the capital of Italy?",
+        "options": [
+            "A) Milan",
+            "B) Naples",
+            "C) Rome",
+            "D) Venice"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which fruit is traditionally used to make wine?",
+        "options": [
+            "A) Apple",
+            "B) Orange",
+            "C) Grape",
+            "D) Cherry"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "How many wheels does a tricycle have?",
+        "options": [
+            "A) 2",
+            "B) 3",
+            "C) 4",
+            "D) 5"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the driest desert in the world?",
+        "options": [
+            "A) Sahara",
+            "B) Gobi",
+            "C) Atacama",
+            "D) Kalahari"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What do we call a baby dog?",
+        "options": [
+            "A) Kitten",
+            "B) Puppy",
+            "C) Cub",
+            "D) Foal"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the most expensive spice in the world?",
+        "options": [
+            "A) Cardamom",
+            "B) Vanilla",
+            "C) Saffron",
+            "D) Cinnamon"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "How many years are there in a decade?",
+        "options": [
+            "A) 5",
+            "B) 10",
+            "C) 15",
+            "D) 20"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest fish in the ocean?",
+        "options": [
+            "A) Great White Shark",
+            "B) Whale Shark",
+            "C) Tuna",
+            "D) Marlin"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What is the chemical formula for salt?",
+        "options": [
+            "A) NaCl",
+            "B) KCl",
+            "C) CaCl2",
+            "D) MgCl2"
+        ],
+        "answer": "A",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the highest mountain peak in Africa?",
+        "options": [
+            "A) Mount Kenya",
+            "B) Mount Kilimanjaro",
+            "C) Mount Elgon",
+            "D) Atlas Mountains"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many corners does a cube have?",
+        "options": [
+            "A) 6",
+            "B) 8",
+            "C) 10",
+            "D) 12"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the national game of England?",
+        "options": [
+            "A) Football",
+            "B) Rugby",
+            "C) Cricket",
+            "D) Tennis"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What do we call a group of bees?",
+        "options": [
+            "A) Hive",
+            "B) Swarm",
+            "C) Colony",
+            "D) Cluster"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest snake in the world?",
+        "options": [
+            "A) Python",
+            "B) Anaconda",
+            "C) Cobra",
+            "D) Viper"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many strings does a violin have?",
+        "options": [
+            "A) 3",
+            "B) 4",
+            "C) 5",
+            "D) 6"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the capital of Spain?",
+        "options": [
+            "A) Barcelona",
+            "B) Madrid",
+            "C) Seville",
+            "D) Valencia"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What is the largest internal organ in the human body?",
+        "options": [
+            "A) Heart",
+            "B) Lungs",
+            "C) Liver",
+            "D) Brain"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which color is made by mixing red and yellow?",
+        "options": [
+            "A) Purple",
+            "B) Green",
+            "C) Orange",
+            "D) Brown"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "How many legs does a centipede have?",
+        "options": [
+            "A) 100",
+            "B) 50",
+            "C) Variable",
+            "D) 200"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the deepest lake in the world?",
+        "options": [
+            "A) Lake Superior",
+            "B) Lake Baikal",
+            "C) Lake Tanganyika",
+            "D) Caspian Sea"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What do we call a baby kangaroo?",
+        "options": [
+            "A) Cub",
+            "B) Joey",
+            "C) Pup",
+            "D) Kit"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the smallest country in Asia?",
+        "options": [
+            "A) Singapore",
+            "B) Maldives",
+            "C) Bahrain",
+            "D) Brunei"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many faces does a dice have?",
+        "options": [
+            "A) 4",
+            "B) 6",
+            "C) 8",
+            "D) 10"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the fastest land animal in North America?",
+        "options": [
+            "A) Horse",
+            "B) Deer",
+            "C) Pronghorn",
+            "D) Wolf"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What is the main source of Vitamin C?",
+        "options": [
+            "A) Milk",
+            "B) Meat",
+            "C) Citrus fruits",
+            "D) Bread"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest coral reef system?",
+        "options": [
+            "A) Belize Barrier Reef",
+            "B) Great Barrier Reef",
+            "C) Red Sea Coral Reef",
+            "D) Caribbean Reef"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many chambers does a fish heart have?",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the tallest grass in the world?",
+        "options": [
+            "A) Wheat",
+            "B) Rice",
+            "C) Bamboo",
+            "D) Corn"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What do we call a group of wolves?",
+        "options": [
+            "A) Herd",
+            "B) Pack",
+            "C) Flock",
+            "D) Pride"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the most common element in Earth's crust?",
+        "options": [
+            "A) Silicon",
+            "B) Aluminum",
+            "C) Iron",
+            "D) Oxygen"
+        ],
+        "answer": "D",
+        "level": "easy"
+    },
+    {
+        "question": "How many colors are in the flag of India?",
+        "options": [
+            "A) 2",
+            "B) 3",
+            "C) 4",
+            "D) 5"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest seed in the world?",
+        "options": [
+            "A) Coconut",
+            "B) Avocado",
+            "C) Coco de mer",
+            "D) Mango"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What is the capital of Germany?",
+        "options": [
+            "A) Munich",
+            "B) Berlin",
+            "C) Hamburg",
+            "D) Frankfurt"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the slowest animal in the world?",
+        "options": [
+            "A) Snail",
+            "B) Sloth",
+            "C) Turtle",
+            "D) Starfish"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many sides does a square have?",
+        "options": [
+            "A) 3",
+            "B) 4",
+            "C) 5",
+            "D) 6"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the most venomous spider?",
+        "options": [
+            "A) Black Widow",
+            "B) Funnel Web",
+            "C) Brazilian Wandering Spider",
+            "D) Brown Recluse"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What do we call a baby pig?",
+        "options": [
+            "A) Calf",
+            "B) Lamb",
+            "C) Piglet",
+            "D) Kid"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the highest capital city in the world?",
+        "options": [
+            "A) Quito",
+            "B) La Paz",
+            "C) Bogotá",
+            "D) Addis Ababa"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many teeth does a shark have?",
+        "options": [
+            "A) 32",
+            "B) Multiple rows",
+            "C) 100",
+            "D) 50"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest volcano in the world?",
+        "options": [
+            "A) Mount Vesuvius",
+            "B) Mount Etna",
+            "C) Mauna Loa",
+            "D) Mount Fuji"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What is the unit of measurement for electric current?",
+        "options": [
+            "A) Volt",
+            "B) Watt",
+            "C) Ampere",
+            "D) Ohm"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest bay in the world?",
+        "options": [
+            "A) Bay of Bengal",
+            "B) Hudson Bay",
+            "C) Gulf of Mexico",
+            "D) Persian Gulf"
+        ],
+        "answer": "A",
+        "level": "easy"
+    },
+    {
+        "question": "How many wings does a dragonfly have?",
+        "options": [
+            "A) 2",
+            "B) 4",
+            "C) 6",
+            "D) 8"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the national fruit of India?",
+        "options": [
+            "A) Apple",
+            "B) Banana",
+            "C) Mango",
+            "D) Orange"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What is the hardest substance found naturally on Earth?",
+        "options": [
+            "A) Quartz",
+            "B) Diamond",
+            "C) Ruby",
+            "D) Sapphire"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest freshwater lake by volume?",
+        "options": [
+            "A) Lake Superior",
+            "B) Lake Baikal",
+            "C) Lake Victoria",
+            "D) Lake Huron"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many legs does a lobster have?",
+        "options": [
+            "A) 6",
+            "B) 8",
+            "C) 10",
+            "D) 12"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the capital of China?",
+        "options": [
+            "A) Shanghai",
+            "B) Beijing",
+            "C) Hong Kong",
+            "D) Guangzhou"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What do we call a group of penguins?",
+        "options": [
+            "A) Flock",
+            "B) Colony",
+            "C) Herd",
+            "D) School"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the most intelligent sea mammal?",
+        "options": [
+            "A) Whale",
+            "B) Seal",
+            "C) Dolphin",
+            "D) Otter"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "How many chambers does a bird's heart have?",
+        "options": [
+            "A) 2",
+            "B) 3",
+            "C) 4",
+            "D) 5"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the longest mountain range in the world?",
+        "options": [
+            "A) Himalayas",
+            "B) Andes",
+            "C) Rocky Mountains",
+            "D) Alps"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What is the chemical symbol for silver?",
+        "options": [
+            "A) Si",
+            "B) Ag",
+            "C) Al",
+            "D) S"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest lizard in the world?",
+        "options": [
+            "A) Iguana",
+            "B) Monitor Lizard",
+            "C) Komodo Dragon",
+            "D) Chameleon"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "How many bones are in the human skull?",
+        "options": [
+            "A) 22",
+            "B) 26",
+            "C) 28",
+            "D) 30"
+        ],
+        "answer": "A",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the most abundant metal in Earth's crust?",
+        "options": [
+            "A) Iron",
+            "B) Aluminum",
+            "C) Copper",
+            "D) Zinc"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What do we call a baby bear?",
+        "options": [
+            "A) Pup",
+            "B) Cub",
+            "C) Kit",
+            "D) Calf"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest gulf in the world?",
+        "options": [
+            "A) Persian Gulf",
+            "B) Gulf of Mexico",
+            "C) Gulf of Guinea",
+            "D) Gulf of Alaska"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many keys are on a standard piano?",
+        "options": [
+            "A) 76",
+            "B) 88",
+            "C) 92",
+            "D) 100"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the smallest bird in the world?",
+        "options": [
+            "A) Sparrow",
+            "B) Hummingbird",
+            "C) Wren",
+            "D) Finch"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What is the capital of Mexico?",
+        "options": [
+            "A) Guadalajara",
+            "B) Monterrey",
+            "C) Mexico City",
+            "D) Cancún"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the most poisonous frog?",
+        "options": [
+            "A) Tree Frog",
+            "B) Poison Dart Frog",
+            "C) Bullfrog",
+            "D) Toad"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many degrees are in a circle?",
+        "options": [
+            "A) 180",
+            "B) 270",
+            "C) 360",
+            "D) 450"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the longest nerve in the human body?",
+        "options": [
+            "A) Optic nerve",
+            "B) Sciatic nerve",
+            "C) Facial nerve",
+            "D) Vagus nerve"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What do we call a group of geese?",
+        "options": [
+            "A) Flock",
+            "B) Gaggle",
+            "C) Herd",
+            "D) School"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest carnivorous plant?",
+        "options": [
+            "A) Venus Flytrap",
+            "B) Pitcher Plant",
+            "C) Sundew",
+            "D) Nepenthes rajah"
+        ],
+        "answer": "D",
+        "level": "easy"
+    },
+    {
+        "question": "How many ribs does a human have?",
+        "options": [
+            "A) 22",
+            "B) 24",
+            "C) 26",
+            "D) 28"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the deepest part of the ocean?",
+        "options": [
+            "A) Mariana Trench",
+            "B) Puerto Rico Trench",
+            "C) Java Trench",
+            "D) Tonga Trench"
+        ],
+        "answer": "A",
+        "level": "easy"
+    },
+    {
+        "question": "What is the unit of measurement for frequency?",
+        "options": [
+            "A) Hertz",
+            "B) Watt",
+            "C) Joule",
+            "D) Newton"
+        ],
+        "answer": "A",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest butterfly in the world?",
+        "options": [
+            "A) Monarch",
+            "B) Swallowtail",
+            "C) Queen Alexandra's Birdwing",
+            "D) Blue Morpho"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "How many tentacles does an octopus have?",
+        "options": [
+            "A) 6",
+            "B) 8",
+            "C) 10",
+            "D) 12"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the capital of Argentina?",
+        "options": [
+            "A) São Paulo",
+            "B) Buenos Aires",
+            "C) Rio de Janeiro",
+            "D) Santiago"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What do we call a baby goat?",
+        "options": [
+            "A) Lamb",
+            "B) Calf",
+            "C) Kid",
+            "D) Foal"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the most common gas in a balloon?",
+        "options": [
+            "A) Oxygen",
+            "B) Helium",
+            "C) Nitrogen",
+            "D) Carbon Dioxide"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "How many chambers does an insect's heart have?",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) Multiple",
+            "D) None"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest eagle in the world?",
+        "options": [
+            "A) Bald Eagle",
+            "B) Golden Eagle",
+            "C) Steller's Sea Eagle",
+            "D) Harpy Eagle"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What is the chemical symbol for copper?",
+        "options": [
+            "A) Co",
+            "B) Cu",
+            "C) Cp",
+            "D) C"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest stadium in the world?",
+        "options": [
+            "A) Wembley Stadium",
+            "B) Camp Nou",
+            "C) Rungrado Stadium",
+            "D) Rose Bowl"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "How many neck bones does a giraffe have?",
+        "options": [
+            "A) 5",
+            "B) 7",
+            "C) 9",
+            "D) 12"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the most common type of star?",
+        "options": [
+            "A) Blue giant",
+            "B) Red dwarf",
+            "C) White dwarf",
+            "D) Yellow dwarf"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "What do we call a group of crows?",
+        "options": [
+            "A) Flock",
+            "B) Murder",
+            "C) Herd",
+            "D) School"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest muscle in the human body?",
+        "options": [
+            "A) Bicep",
+            "B) Quadriceps",
+            "C) Gluteus maximus",
+            "D) Heart"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "How many years are in a century?",
+        "options": [
+            "A) 50",
+            "B) 100",
+            "C) 150",
+            "D) 200"
+        ],
+        "answer": "B",
+        "level": "easy"
+    },
+    {
+        "question": "Which is the largest turtle species?",
+        "options": [
+            "A) Green Turtle",
+            "B) Loggerhead Turtle",
+            "C) Leatherback Turtle",
+            "D) Hawksbill Turtle"
+        ],
+        "answer": "C",
+        "level": "easy"
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "options": [
+            "A) Osaka",
+            "B) Tokyo",
+            "C) Kyoto",
+            "D) Hiroshima"
+        ],
+        "answer": "B",
+        "level": "easy"
+    }
+]

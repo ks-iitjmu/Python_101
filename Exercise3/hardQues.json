@@ -1,0 +1,2213 @@
+[
+    {
+        "question": "Which element has the chemical symbol 'Au'?",
+        "options": [
+            "A) Silver",
+            "B) Aluminum",
+            "C) Gold",
+            "D) Argon"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Who was the first person to set foot on the Moon?",
+        "options": [
+            "A) Buzz Aldrin",
+            "B) Neil Armstrong",
+            "C) Michael Collins",
+            "D) Yuri Gagarin"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "options": [
+            "A) China",
+            "B) South Korea",
+            "C) Thailand",
+            "D) Japan"
+        ],
+        "answer": "D",
+        "level": "hard"
+    },
+    {
+        "question": "What is the smallest unit of matter?",
+        "options": [
+            "A) Molecule",
+            "B) Atom",
+            "C) Electron",
+            "D) Proton"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "In which year did World War II end?",
+        "options": [
+            "A) 1944",
+            "B) 1945",
+            "C) 1946",
+            "D) 1947"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which organ in the human body produces insulin?",
+        "options": [
+            "A) Liver",
+            "B) Kidney",
+            "C) Pancreas",
+            "D) Heart"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "options": [
+            "A) Sydney",
+            "B) Melbourne",
+            "C) Perth",
+            "D) Canberra"
+        ],
+        "answer": "D",
+        "level": "hard"
+    },
+    {
+        "question": "Who wrote the novel '1984'?",
+        "options": [
+            "A) Aldous Huxley",
+            "B) George Orwell",
+            "C) Ray Bradbury",
+            "D) H.G. Wells"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "options": [
+            "A) Venus",
+            "B) Jupiter",
+            "C) Mars",
+            "D) Saturn"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "options": [
+            "A) Yuan",
+            "B) Won",
+            "C) Yen",
+            "D) Ringgit"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "options": [
+            "A) Amazon",
+            "B) Nile",
+            "C) Mississippi",
+            "D) Yangtze"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which scientist developed the theory of relativity?",
+        "options": [
+            "A) Isaac Newton",
+            "B) Albert Einstein",
+            "C) Galileo Galilei",
+            "D) Stephen Hawking"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": [
+            "A) Quartz",
+            "B) Diamond",
+            "C) Granite",
+            "D) Steel"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "In which country would you find Machu Picchu?",
+        "options": [
+            "A) Chile",
+            "B) Ecuador",
+            "C) Peru",
+            "D) Bolivia"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the most abundant gas in Earth's atmosphere?",
+        "options": [
+            "A) Oxygen",
+            "B) Carbon Dioxide",
+            "C) Nitrogen",
+            "D) Hydrogen"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Who painted the ceiling of the Sistine Chapel?",
+        "options": [
+            "A) Leonardo da Vinci",
+            "B) Raphael",
+            "C) Michelangelo",
+            "D) Donatello"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": [
+            "A) Atlantic",
+            "B) Indian",
+            "C) Arctic",
+            "D) Pacific"
+        ],
+        "answer": "D",
+        "level": "hard"
+    },
+    {
+        "question": "Which blood type is known as the universal donor?",
+        "options": [
+            "A) A+",
+            "B) B-",
+            "C) AB+",
+            "D) O-"
+        ],
+        "answer": "D",
+        "level": "hard"
+    },
+    {
+        "question": "What is the speed of light in vacuum?",
+        "options": [
+            "A) 300,000 km/s",
+            "B) 299,792,458 m/s",
+            "C) 186,000 miles/s",
+            "D) All of the above"
+        ],
+        "answer": "D",
+        "level": "hard"
+    },
+    {
+        "question": "Which empire was ruled by Julius Caesar?",
+        "options": [
+            "A) Greek Empire",
+            "B) Roman Empire",
+            "C) Byzantine Empire",
+            "D) Persian Empire"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the chemical formula for water?",
+        "options": [
+            "A) H2O",
+            "B) CO2",
+            "C) NaCl",
+            "D) CH4"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "Which continent has the most countries?",
+        "options": [
+            "A) Asia",
+            "B) Europe",
+            "C) Africa",
+            "D) South America"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Who composed 'The Four Seasons'?",
+        "options": [
+            "A) Bach",
+            "B) Mozart",
+            "C) Vivaldi",
+            "D) Beethoven"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "options": [
+            "A) African Elephant",
+            "B) Blue Whale",
+            "C) Sperm Whale",
+            "D) Giraffe"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which gas makes up about 78% of Earth's atmosphere?",
+        "options": [
+            "A) Oxygen",
+            "B) Carbon Dioxide",
+            "C) Nitrogen",
+            "D) Argon"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the smallest country in the world?",
+        "options": [
+            "A) Monaco",
+            "B) San Marino",
+            "C) Vatican City",
+            "D) Liechtenstein"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Who invented the telephone?",
+        "options": [
+            "A) Thomas Edison",
+            "B) Alexander Graham Bell",
+            "C) Nikola Tesla",
+            "D) Guglielmo Marconi"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the study of earthquakes called?",
+        "options": [
+            "A) Geology",
+            "B) Seismology",
+            "C) Meteorology",
+            "D) Volcanology"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which element has the atomic number 1?",
+        "options": [
+            "A) Helium",
+            "B) Hydrogen",
+            "C) Lithium",
+            "D) Carbon"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "In Greek mythology, who is the king of the gods?",
+        "options": [
+            "A) Poseidon",
+            "B) Hades",
+            "C) Zeus",
+            "D) Apollo"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "options": [
+            "A) K2",
+            "B) Mount Kilimanjaro",
+            "C) Mount Everest",
+            "D) Mount McKinley"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Which vitamin is produced when skin is exposed to sunlight?",
+        "options": [
+            "A) Vitamin A",
+            "B) Vitamin C",
+            "C) Vitamin D",
+            "D) Vitamin E"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "options": [
+            "A) Sahara",
+            "B) Gobi",
+            "C) Antarctic Desert",
+            "D) Arabian Desert"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": [
+            "A) Charles Dickens",
+            "B) William Shakespeare",
+            "C) Jane Austen",
+            "D) Mark Twain"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "options": [
+            "A) Nucleus",
+            "B) Ribosome",
+            "C) Mitochondria",
+            "D) Cytoplasm"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Which planet has the most moons?",
+        "options": [
+            "A) Jupiter",
+            "B) Saturn",
+            "C) Uranus",
+            "D) Neptune"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the main ingredient in guacamole?",
+        "options": [
+            "A) Tomato",
+            "B) Avocado",
+            "C) Onion",
+            "D) Lime"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which war was fought between 1861-1865 in America?",
+        "options": [
+            "A) Revolutionary War",
+            "B) War of 1812",
+            "C) Civil War",
+            "D) Spanish-American War"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+            "A) Go",
+            "B) Gd",
+            "C) Au",
+            "D) Ag"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Which ocean is the Bermuda Triangle located in?",
+        "options": [
+            "A) Pacific",
+            "B) Atlantic",
+            "C) Indian",
+            "D) Arctic"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Who developed the polio vaccine?",
+        "options": [
+            "A) Alexander Fleming",
+            "B) Louis Pasteur",
+            "C) Jonas Salk",
+            "D) Edward Jenner"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the largest bone in the human body?",
+        "options": [
+            "A) Tibia",
+            "B) Femur",
+            "C) Humerus",
+            "D) Fibula"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which ancient wonder of the world was located in Alexandria?",
+        "options": [
+            "A) Hanging Gardens",
+            "B) Colossus of Rhodes",
+            "C) Lighthouse of Alexandria",
+            "D) Temple of Artemis"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the most spoken language in the world by native speakers?",
+        "options": [
+            "A) English",
+            "B) Spanish",
+            "C) Mandarin Chinese",
+            "D) Hindi"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Which scientist is famous for the laws of motion?",
+        "options": [
+            "A) Albert Einstein",
+            "B) Isaac Newton",
+            "C) Galileo Galilei",
+            "D) Johannes Kepler"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the currency of the United Kingdom?",
+        "options": [
+            "A) Euro",
+            "B) Dollar",
+            "C) Pound Sterling",
+            "D) Franc"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Which organ filters blood in the human body?",
+        "options": [
+            "A) Liver",
+            "B) Kidney",
+            "C) Heart",
+            "D) Lungs"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the deepest point in Earth's oceans?",
+        "options": [
+            "A) Puerto Rico Trench",
+            "B) Java Trench",
+            "C) Mariana Trench",
+            "D) Peru-Chile Trench"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Who painted 'The Starry Night'?",
+        "options": [
+            "A) Pablo Picasso",
+            "B) Vincent van Gogh",
+            "C) Claude Monet",
+            "D) Leonardo da Vinci"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the hottest planet in our solar system?",
+        "options": [
+            "A) Mercury",
+            "B) Mars",
+            "C) Venus",
+            "D) Jupiter"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Which country gifted the Statue of Liberty to the United States?",
+        "options": [
+            "A) England",
+            "B) Spain",
+            "C) Italy",
+            "D) France"
+        ],
+        "answer": "D",
+        "level": "hard"
+    },
+    {
+        "question": "What is the process by which plants make their own food?",
+        "options": [
+            "A) Respiration",
+            "B) Photosynthesis",
+            "C) Transpiration",
+            "D) Germination"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which metal is liquid at room temperature?",
+        "options": [
+            "A) Lead",
+            "B) Mercury",
+            "C) Tin",
+            "D) Zinc"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the largest island in the world?",
+        "options": [
+            "A) Madagascar",
+            "B) Greenland",
+            "C) New Guinea",
+            "D) Borneo"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "options": [
+            "A) Charlotte Brontë",
+            "B) Emily Brontë",
+            "C) Jane Austen",
+            "D) George Eliot"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "options": [
+            "A) 0",
+            "B) 1",
+            "C) 2",
+            "D) 3"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Which continent is the driest?",
+        "options": [
+            "A) Africa",
+            "B) Australia",
+            "C) Antarctica",
+            "D) Asia"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the study of fungi called?",
+        "options": [
+            "A) Botany",
+            "B) Mycology",
+            "C) Zoology",
+            "D) Ecology"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which gas is most abundant in the Sun?",
+        "options": [
+            "A) Oxygen",
+            "B) Helium",
+            "C) Hydrogen",
+            "D) Carbon"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "options": [
+            "A) Toronto",
+            "B) Vancouver",
+            "C) Montreal",
+            "D) Ottawa"
+        ],
+        "answer": "D",
+        "level": "hard"
+    },
+    {
+        "question": "Which philosopher taught Alexander the Great?",
+        "options": [
+            "A) Plato",
+            "B) Socrates",
+            "C) Aristotle",
+            "D) Pythagoras"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the largest internal organ in the human body?",
+        "options": [
+            "A) Brain",
+            "B) Liver",
+            "C) Lungs",
+            "D) Heart"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Fe'?",
+        "options": [
+            "A) Fluorine",
+            "B) Iron",
+            "C) Francium",
+            "D) Fermium"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the fastest land animal?",
+        "options": [
+            "A) Lion",
+            "B) Cheetah",
+            "C) Leopard",
+            "D) Gazelle"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which river flows through Egypt?",
+        "options": [
+            "A) Euphrates",
+            "B) Tigris",
+            "C) Nile",
+            "D) Jordan"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Who invented the World Wide Web?",
+        "options": [
+            "A) Bill Gates",
+            "B) Steve Jobs",
+            "C) Tim Berners-Lee",
+            "D) Mark Zuckerberg"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the study of weather called?",
+        "options": [
+            "A) Geology",
+            "B) Meteorology",
+            "C) Astronomy",
+            "D) Oceanography"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which planet is closest to the Sun?",
+        "options": [
+            "A) Venus",
+            "B) Mars",
+            "C) Mercury",
+            "D) Earth"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the largest country by land area?",
+        "options": [
+            "A) China",
+            "B) United States",
+            "C) Canada",
+            "D) Russia"
+        ],
+        "answer": "D",
+        "level": "hard"
+    },
+    {
+        "question": "Who composed 'The Magic Flute'?",
+        "options": [
+            "A) Beethoven",
+            "B) Bach",
+            "C) Mozart",
+            "D) Haydn"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the main component of natural gas?",
+        "options": [
+            "A) Ethane",
+            "B) Propane",
+            "C) Methane",
+            "D) Butane"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Which blood vessels carry blood away from the heart?",
+        "options": [
+            "A) Veins",
+            "B) Arteries",
+            "C) Capillaries",
+            "D) Lymphatics"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the most abundant mineral in Earth's crust?",
+        "options": [
+            "A) Quartz",
+            "B) Feldspar",
+            "C) Mica",
+            "D) Calcite"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which city hosted the first modern Olympic Games?",
+        "options": [
+            "A) Paris",
+            "B) London",
+            "C) Athens",
+            "D) Rome"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the chemical formula for table salt?",
+        "options": [
+            "A) NaCl",
+            "B) KCl",
+            "C) CaCl2",
+            "D) MgCl2"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "Which astronomer proposed the heliocentric model?",
+        "options": [
+            "A) Ptolemy",
+            "B) Galileo",
+            "C) Copernicus",
+            "D) Kepler"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the longest bone in the human body?",
+        "options": [
+            "A) Tibia",
+            "B) Femur",
+            "C) Humerus",
+            "D) Radius"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which country is both in Europe and Asia?",
+        "options": [
+            "A) Russia",
+            "B) Turkey",
+            "C) Kazakhstan",
+            "D) All of the above"
+        ],
+        "answer": "D",
+        "level": "hard"
+    },
+    {
+        "question": "What is the process of cell division called?",
+        "options": [
+            "A) Meiosis",
+            "B) Mitosis",
+            "C) Both A and B",
+            "D) Osmosis"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "options": [
+            "A) Marie Curie",
+            "B) Alexander Fleming",
+            "C) Louis Pasteur",
+            "D) Joseph Lister"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the hardest rock?",
+        "options": [
+            "A) Granite",
+            "B) Quartzite",
+            "C) Diamond",
+            "D) Basalt"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Which sea is the saltiest in the world?",
+        "options": [
+            "A) Dead Sea",
+            "B) Red Sea",
+            "C) Mediterranean Sea",
+            "D) Baltic Sea"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "What is the study of birds called?",
+        "options": [
+            "A) Entomology",
+            "B) Ornithology",
+            "C) Ichthyology",
+            "D) Herpetology"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which vitamin prevents scurvy?",
+        "options": [
+            "A) Vitamin A",
+            "B) Vitamin B",
+            "C) Vitamin C",
+            "D) Vitamin D"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the most electronegative element?",
+        "options": [
+            "A) Oxygen",
+            "B) Nitrogen",
+            "C) Fluorine",
+            "D) Chlorine"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Which empire built Machu Picchu?",
+        "options": [
+            "A) Aztec",
+            "B) Maya",
+            "C) Inca",
+            "D) Olmec"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the pH of pure water?",
+        "options": [
+            "A) 6",
+            "B) 7",
+            "C) 8",
+            "D) 9"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which hormone regulates blood sugar?",
+        "options": [
+            "A) Adrenaline",
+            "B) Insulin",
+            "C) Cortisol",
+            "D) Thyroxine"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the largest volcano in the solar system?",
+        "options": [
+            "A) Mount Vesuvius",
+            "B) Mount Etna",
+            "C) Olympus Mons",
+            "D) Kilauea"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Which writer created Sherlock Holmes?",
+        "options": [
+            "A) Agatha Christie",
+            "B) Arthur Conan Doyle",
+            "C) Edgar Allan Poe",
+            "D) Raymond Chandler"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the freezing point of water in Celsius?",
+        "options": [
+            "A) -1°C",
+            "B) 0°C",
+            "C) 1°C",
+            "D) 32°C"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which country has the most time zones?",
+        "options": [
+            "A) Russia",
+            "B) United States",
+            "C) China",
+            "D) France"
+        ],
+        "answer": "D",
+        "level": "hard"
+    },
+    {
+        "question": "What is the study of heredity called?",
+        "options": [
+            "A) Genetics",
+            "B) Evolution",
+            "C) Ecology",
+            "D) Taxonomy"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "Which particle has no electric charge?",
+        "options": [
+            "A) Proton",
+            "B) Electron",
+            "C) Neutron",
+            "D) Ion"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the most abundant protein in the human body?",
+        "options": [
+            "A) Hemoglobin",
+            "B) Insulin",
+            "C) Collagen",
+            "D) Albumin"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Which ancient civilization built Stonehenge?",
+        "options": [
+            "A) Romans",
+            "B) Celts",
+            "C) Anglo-Saxons",
+            "D) Neolithic peoples"
+        ],
+        "answer": "D",
+        "level": "hard"
+    },
+    {
+        "question": "What is the smallest unit of life?",
+        "options": [
+            "A) Atom",
+            "B) Molecule",
+            "C) Cell",
+            "D) Tissue"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Which mathematician developed calculus?",
+        "options": [
+            "A) Gauss",
+            "B) Euler",
+            "C) Newton and Leibniz",
+            "D) Archimedes"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the most common type of star in the universe?",
+        "options": [
+            "A) Blue giant",
+            "B) Red dwarf",
+            "C) White dwarf",
+            "D) Yellow dwarf"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which organ produces bile?",
+        "options": [
+            "A) Pancreas",
+            "B) Liver",
+            "C) Gallbladder",
+            "D) Stomach"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the second most abundant element in the universe?",
+        "options": [
+            "A) Hydrogen",
+            "B) Oxygen",
+            "C) Helium",
+            "D) Carbon"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Which wall divided East and West Berlin?",
+        "options": [
+            "A) Great Wall",
+            "B) Berlin Wall",
+            "C) Iron Curtain",
+            "D) Maginot Line"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the study of insects called?",
+        "options": [
+            "A) Ornithology",
+            "B) Entomology",
+            "C) Herpetology",
+            "D) Ichthyology"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which planet has the shortest day?",
+        "options": [
+            "A) Earth",
+            "B) Jupiter",
+            "C) Mars",
+            "D) Venus"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Who is known as the father of modern physics?",
+        "options": [
+            "A) Isaac Newton",
+            "B) Albert Einstein",
+            "C) Galileo Galilei",
+            "D) Niels Bohr"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the capital city of Switzerland?",
+        "options": [
+            "A) Zurich",
+            "B) Geneva",
+            "C) Bern",
+            "D) Basel"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Which element is a noble gas?",
+        "options": [
+            "A) Nitrogen",
+            "B) Oxygen",
+            "C) Argon",
+            "D) Hydrogen"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "A) Joule",
+            "B) Newton",
+            "C) Pascal",
+            "D) Watt"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Who discovered radioactivity?",
+        "options": [
+            "A) Marie Curie",
+            "B) Henri Becquerel",
+            "C) Ernest Rutherford",
+            "D) Wilhelm Röntgen"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which country is the largest producer of coffee?",
+        "options": [
+            "A) Colombia",
+            "B) Vietnam",
+            "C) Brazil",
+            "D) Ethiopia"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the main language spoken in Brazil?",
+        "options": [
+            "A) Spanish",
+            "B) Portuguese",
+            "C) French",
+            "D) English"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which scientist is known for the uncertainty principle?",
+        "options": [
+            "A) Max Planck",
+            "B) Werner Heisenberg",
+            "C) Erwin Schrödinger",
+            "D) Paul Dirac"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the largest moon of Saturn?",
+        "options": [
+            "A) Europa",
+            "B) Ganymede",
+            "C) Titan",
+            "D) Callisto"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Which country hosted the 2016 Summer Olympics?",
+        "options": [
+            "A) China",
+            "B) Brazil",
+            "C) United Kingdom",
+            "D) Russia"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the chemical symbol for potassium?",
+        "options": [
+            "A) P",
+            "B) Po",
+            "C) K",
+            "D) Pt"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Who is the author of 'The Odyssey'?",
+        "options": [
+            "A) Homer",
+            "B) Virgil",
+            "C) Sophocles",
+            "D) Plato"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the smallest bone in the human body?",
+        "options": [
+            "A) Stapes",
+            "B) Femur",
+            "C) Ulna",
+            "D) Tibia"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "What is the capital of South Korea?",
+        "options": [
+            "A) Busan",
+            "B) Seoul",
+            "C) Incheon",
+            "D) Daegu"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the largest continent by area?",
+        "options": [
+            "A) Africa",
+            "B) Asia",
+            "C) North America",
+            "D) Europe"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Who developed the first successful polio vaccine?",
+        "options": [
+            "A) Jonas Salk",
+            "B) Albert Sabin",
+            "C) Louis Pasteur",
+            "D) Edward Jenner"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "What is the main gas found in the air we breathe?",
+        "options": [
+            "A) Oxygen",
+            "B) Nitrogen",
+            "C) Carbon Dioxide",
+            "D) Hydrogen"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the longest mountain range in the world?",
+        "options": [
+            "A) Andes",
+            "B) Himalayas",
+            "C) Rockies",
+            "D) Alps"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "Who is the Greek god of the sea?",
+        "options": [
+            "A) Zeus",
+            "B) Hades",
+            "C) Poseidon",
+            "D) Apollo"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the largest species of shark?",
+        "options": [
+            "A) Great White Shark",
+            "B) Hammerhead Shark",
+            "C) Whale Shark",
+            "D) Tiger Shark"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Which country has the largest population?",
+        "options": [
+            "A) India",
+            "B) United States",
+            "C) China",
+            "D) Indonesia"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the boiling point of water at sea level in Celsius?",
+        "options": [
+            "A) 90°C",
+            "B) 95°C",
+            "C) 100°C",
+            "D) 105°C"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Who was the first female Prime Minister of the UK?",
+        "options": [
+            "A) Margaret Thatcher",
+            "B) Theresa May",
+            "C) Angela Merkel",
+            "D) Indira Gandhi"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the largest planet in our solar system?",
+        "options": [
+            "A) Saturn",
+            "B) Jupiter",
+            "C) Uranus",
+            "D) Neptune"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the main ingredient in traditional Japanese miso soup?",
+        "options": [
+            "A) Tofu",
+            "B) Miso paste",
+            "C) Seaweed",
+            "D) Rice"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Who is the founder of Microsoft?",
+        "options": [
+            "A) Steve Jobs",
+            "B) Bill Gates",
+            "C) Mark Zuckerberg",
+            "D) Larry Page"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the smallest ocean in the world?",
+        "options": [
+            "A) Indian",
+            "B) Atlantic",
+            "C) Arctic",
+            "D) Pacific"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the chemical symbol for sodium?",
+        "options": [
+            "A) S",
+            "B) So",
+            "C) Na",
+            "D) Sn"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": [
+            "A) Michelangelo",
+            "B) Leonardo da Vinci",
+            "C) Raphael",
+            "D) Rembrandt"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which country is known as the Land of a Thousand Lakes?",
+        "options": [
+            "A) Sweden",
+            "B) Finland",
+            "C) Norway",
+            "D) Canada"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the largest living species of lizard?",
+        "options": [
+            "A) Komodo Dragon",
+            "B) Monitor Lizard",
+            "C) Iguana",
+            "D) Gila Monster"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the only continent without reptiles or snakes?",
+        "options": [
+            "A) Africa",
+            "B) Antarctica",
+            "C) Europe",
+            "D) Australia"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Who invented the light bulb?",
+        "options": [
+            "A) Nikola Tesla",
+            "B) Thomas Edison",
+            "C) Alexander Graham Bell",
+            "D) Michael Faraday"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the largest species of penguin?",
+        "options": [
+            "A) King Penguin",
+            "B) Emperor Penguin",
+            "C) Gentoo Penguin",
+            "D) Adelie Penguin"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the world's largest coral reef system?",
+        "options": [
+            "A) Belize Barrier Reef",
+            "B) Great Barrier Reef",
+            "C) Red Sea Coral Reef",
+            "D) New Caledonia Barrier Reef"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Who is the author of 'To Kill a Mockingbird'?",
+        "options": [
+            "A) Harper Lee",
+            "B) Mark Twain",
+            "C) F. Scott Fitzgerald",
+            "D) Ernest Hemingway"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "What is the capital of Egypt?",
+        "options": [
+            "A) Alexandria",
+            "B) Cairo",
+            "C) Giza",
+            "D) Luxor"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the largest freshwater lake by volume?",
+        "options": [
+            "A) Lake Superior",
+            "B) Lake Victoria",
+            "C) Lake Baikal",
+            "D) Lake Tanganyika"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "options": [
+            "A) Thomas Jefferson",
+            "B) Abraham Lincoln",
+            "C) George Washington",
+            "D) John Adams"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the main function of red blood cells?",
+        "options": [
+            "A) Fight infection",
+            "B) Carry oxygen",
+            "C) Clot blood",
+            "D) Produce hormones"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the largest land carnivore?",
+        "options": [
+            "A) Lion",
+            "B) Polar Bear",
+            "C) Tiger",
+            "D) Grizzly Bear"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the capital of Argentina?",
+        "options": [
+            "A) Santiago",
+            "B) Buenos Aires",
+            "C) Lima",
+            "D) Montevideo"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the smallest planet in our solar system?",
+        "options": [
+            "A) Mercury",
+            "B) Mars",
+            "C) Venus",
+            "D) Pluto"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "Who is known as the father of geometry?",
+        "options": [
+            "A) Euclid",
+            "B) Pythagoras",
+            "C) Archimedes",
+            "D) Aristotle"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "What is the largest gland in the human body?",
+        "options": [
+            "A) Thyroid",
+            "B) Liver",
+            "C) Pancreas",
+            "D) Adrenal"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the only mammal capable of true flight?",
+        "options": [
+            "A) Bat",
+            "B) Flying Squirrel",
+            "C) Sugar Glider",
+            "D) Colugo"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "Who discovered gravity?",
+        "options": [
+            "A) Galileo Galilei",
+            "B) Isaac Newton",
+            "C) Albert Einstein",
+            "D) Johannes Kepler"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the capital of Norway?",
+        "options": [
+            "A) Stockholm",
+            "B) Oslo",
+            "C) Copenhagen",
+            "D) Helsinki"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the largest species of bear?",
+        "options": [
+            "A) Brown Bear",
+            "B) Polar Bear",
+            "C) Grizzly Bear",
+            "D) Panda Bear"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the main function of white blood cells?",
+        "options": [
+            "A) Carry oxygen",
+            "B) Fight infection",
+            "C) Clot blood",
+            "D) Produce insulin"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Who is the author of 'War and Peace'?",
+        "options": [
+            "A) Fyodor Dostoevsky",
+            "B) Leo Tolstoy",
+            "C) Anton Chekhov",
+            "D) Ivan Turgenev"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the largest island in the Mediterranean Sea?",
+        "options": [
+            "A) Sardinia",
+            "B) Sicily",
+            "C) Cyprus",
+            "D) Crete"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the chemical symbol for silver?",
+        "options": [
+            "A) Si",
+            "B) Ag",
+            "C) Au",
+            "D) S"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Who was the first woman to win a Nobel Prize?",
+        "options": [
+            "A) Marie Curie",
+            "B) Rosalind Franklin",
+            "C) Ada Lovelace",
+            "D) Dorothy Hodgkin"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the largest city in Africa by population?",
+        "options": [
+            "A) Cairo",
+            "B) Lagos",
+            "C) Kinshasa",
+            "D) Johannesburg"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the main function of platelets?",
+        "options": [
+            "A) Carry oxygen",
+            "B) Fight infection",
+            "C) Clot blood",
+            "D) Produce hormones"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Who is the Greek goddess of wisdom?",
+        "options": [
+            "A) Hera",
+            "B) Aphrodite",
+            "C) Athena",
+            "D) Artemis"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the largest lake in Africa?",
+        "options": [
+            "A) Lake Tanganyika",
+            "B) Lake Victoria",
+            "C) Lake Malawi",
+            "D) Lake Chad"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the chemical symbol for lead?",
+        "options": [
+            "A) Pb",
+            "B) Ld",
+            "C) Le",
+            "D) Pd"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "Who is the author of 'The Divine Comedy'?",
+        "options": [
+            "A) Dante Alighieri",
+            "B) Geoffrey Chaucer",
+            "C) John Milton",
+            "D) Virgil"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the largest peninsula in the world?",
+        "options": [
+            "A) Arabian Peninsula",
+            "B) Indian Peninsula",
+            "C) Iberian Peninsula",
+            "D) Scandinavian Peninsula"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "What is the capital of Sweden?",
+        "options": [
+            "A) Oslo",
+            "B) Stockholm",
+            "C) Copenhagen",
+            "D) Helsinki"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Who is known as the father of computers?",
+        "options": [
+            "A) Alan Turing",
+            "B) Charles Babbage",
+            "C) John von Neumann",
+            "D) Steve Wozniak"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the largest waterfall in the world by volume?",
+        "options": [
+            "A) Niagara Falls",
+            "B) Victoria Falls",
+            "C) Angel Falls",
+            "D) Inga Falls"
+        ],
+        "answer": "D",
+        "level": "hard"
+    },
+    {
+        "question": "What is the chemical symbol for tin?",
+        "options": [
+            "A) Ti",
+            "B) Tn",
+            "C) Sn",
+            "D) Si"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "Who is the author of 'Moby-Dick'?",
+        "options": [
+            "A) Nathaniel Hawthorne",
+            "B) Herman Melville",
+            "C) Mark Twain",
+            "D) Edgar Allan Poe"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the largest desert in Africa?",
+        "options": [
+            "A) Kalahari",
+            "B) Sahara",
+            "C) Namib",
+            "D) Libyan"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the capital of Thailand?",
+        "options": [
+            "A) Hanoi",
+            "B) Bangkok",
+            "C) Kuala Lumpur",
+            "D) Jakarta"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Who is the founder of Buddhism?",
+        "options": [
+            "A) Confucius",
+            "B) Siddhartha Gautama",
+            "C) Laozi",
+            "D) Mahavira"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the largest bay in the world?",
+        "options": [
+            "A) Bay of Bengal",
+            "B) Hudson Bay",
+            "C) San Francisco Bay",
+            "D) Bay of Biscay"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "What is the chemical symbol for copper?",
+        "options": [
+            "A) Co",
+            "B) Cu",
+            "C) Cp",
+            "D) C"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Who is the author of 'The Catcher in the Rye'?",
+        "options": [
+            "A) J.D. Salinger",
+            "B) F. Scott Fitzgerald",
+            "C) Ernest Hemingway",
+            "D) John Steinbeck"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the largest island in the Caribbean?",
+        "options": [
+            "A) Jamaica",
+            "B) Cuba",
+            "C) Hispaniola",
+            "D) Puerto Rico"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the capital of Turkey?",
+        "options": [
+            "A) Istanbul",
+            "B) Ankara",
+            "C) Izmir",
+            "D) Antalya"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Who is the Greek god of war?",
+        "options": [
+            "A) Apollo",
+            "B) Ares",
+            "C) Hermes",
+            "D) Hephaestus"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the largest city in Australia?",
+        "options": [
+            "A) Melbourne",
+            "B) Sydney",
+            "C) Brisbane",
+            "D) Perth"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the chemical symbol for zinc?",
+        "options": [
+            "A) Zc",
+            "B) Zn",
+            "C) Z",
+            "D) Zi"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Who is the author of 'Crime and Punishment'?",
+        "options": [
+            "A) Leo Tolstoy",
+            "B) Fyodor Dostoevsky",
+            "C) Anton Chekhov",
+            "D) Ivan Turgenev"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the largest city in Canada?",
+        "options": [
+            "A) Vancouver",
+            "B) Montreal",
+            "C) Toronto",
+            "D) Ottawa"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the capital of Spain?",
+        "options": [
+            "A) Barcelona",
+            "B) Madrid",
+            "C) Valencia",
+            "D) Seville"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Who is the founder of Islam?",
+        "options": [
+            "A) Jesus",
+            "B) Muhammad",
+            "C) Moses",
+            "D) Abraham"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the largest city in the United States by population?",
+        "options": [
+            "A) Los Angeles",
+            "B) Chicago",
+            "C) New York City",
+            "D) Houston"
+        ],
+        "answer": "C",
+        "level": "hard"
+    },
+    {
+        "question": "What is the chemical symbol for calcium?",
+        "options": [
+            "A) Ca",
+            "B) Cl",
+            "C) C",
+            "D) Ce"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "Who is the author of 'The Great Gatsby'?",
+        "options": [
+            "A) Ernest Hemingway",
+            "B) F. Scott Fitzgerald",
+            "C) John Steinbeck",
+            "D) William Faulkner"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the largest city in India by population?",
+        "options": [
+            "A) Delhi",
+            "B) Mumbai",
+            "C) Bangalore",
+            "D) Kolkata"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the capital of Italy?",
+        "options": [
+            "A) Milan",
+            "B) Rome",
+            "C) Venice",
+            "D) Florence"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Who is the founder of Christianity?",
+        "options": [
+            "A) Jesus Christ",
+            "B) Paul the Apostle",
+            "C) Peter",
+            "D) John the Baptist"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the largest city in China by population?",
+        "options": [
+            "A) Beijing",
+            "B) Shanghai",
+            "C) Guangzhou",
+            "D) Shenzhen"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the chemical symbol for magnesium?",
+        "options": [
+            "A) Mg",
+            "B) Mn",
+            "C) Ma",
+            "D) M"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "Who is the author of 'Brave New World'?",
+        "options": [
+            "A) George Orwell",
+            "B) Aldous Huxley",
+            "C) Ray Bradbury",
+            "D) H.G. Wells"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which is the largest city in Russia by population?",
+        "options": [
+            "A) Saint Petersburg",
+            "B) Moscow",
+            "C) Novosibirsk",
+            "D) Yekaterinburg"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the capital of Germany?",
+        "options": [
+            "A) Munich",
+            "B) Berlin",
+            "C) Frankfurt",
+            "D) Hamburg"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which element is represented by the symbol 'Hg'?",
+        "options": [
+            "A) Helium",
+            "B) Mercury",
+            "C) Hydrogen",
+            "D) Hassium"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Who developed the theory of evolution by natural selection?",
+        "options": [
+            "A) Charles Darwin",
+            "B) Gregor Mendel",
+            "C) Alfred Wallace",
+            "D) Jean-Baptiste Lamarck"
+        ],
+        "answer": "A",
+        "level": "hard"
+    },
+    {
+        "question": "What is the largest planet in our solar system by mass?",
+        "options": [
+            "A) Saturn",
+            "B) Jupiter",
+            "C) Neptune",
+            "D) Uranus"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "Which country is home to the ancient city of Petra?",
+        "options": [
+            "A) Egypt",
+            "B) Jordan",
+            "C) Syria",
+            "D) Israel"
+        ],
+        "answer": "B",
+        "level": "hard"
+    },
+    {
+        "question": "What is the powerhouse of the plant cell?",
+        "options": [
+            "A) Nucleus",
+            "B) Chloroplast",
+            "C) Mitochondria",
+            "D) Ribosome"
+        ],
+        "answer": "B",
+        "level": "hard"
+    }
+]

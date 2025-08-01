@@ -1,0 +1,2213 @@
+[
+    {
+        "question": "Who is the current CEO of Tesla?",
+        "options": [
+            "A) Jeff Bezos",
+            "B) Tim Cook",
+            "C) Mark Zuckerberg",
+            "D) Elon Musk"
+        ],
+        "answer": "D",
+        "level": "medium"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "options": [
+            "A) Sydney",
+            "B) Melbourne",
+            "C) Canberra",
+            "D) Perth"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which programming language was developed by Guido van Rossum?",
+        "options": [
+            "A) Java",
+            "B) Python",
+            "C) C++",
+            "D) JavaScript"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": [
+            "A) Hypertext Markup Language",
+            "B) High Tech Modern Language",
+            "C) Home Tool Markup Language",
+            "D) Hyperlink and Text Markup Language"
+        ],
+        "answer": "A",
+        "level": "medium"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "A) Venus",
+            "B) Jupiter",
+            "C) Mars",
+            "D) Saturn"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "options": [
+            "A) African Elephant",
+            "B) Blue Whale",
+            "C) Giraffe",
+            "D) Polar Bear"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "In which year did World War II end?",
+        "options": [
+            "A) 1944",
+            "B) 1945",
+            "C) 1946",
+            "D) 1947"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+            "A) Go",
+            "B) Gd",
+            "C) Au",
+            "D) Ag"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which ocean is the largest?",
+        "options": [
+            "A) Atlantic",
+            "B) Indian",
+            "C) Arctic",
+            "D) Pacific"
+        ],
+        "answer": "D",
+        "level": "medium"
+    },
+    {
+        "question": "Who wrote the novel '1984'?",
+        "options": [
+            "A) Aldous Huxley",
+            "B) George Orwell",
+            "C) Ray Bradbury",
+            "D) H.G. Wells"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the smallest country in the world?",
+        "options": [
+            "A) Monaco",
+            "B) San Marino",
+            "C) Vatican City",
+            "D) Liechtenstein"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which element has the atomic number 1?",
+        "options": [
+            "A) Helium",
+            "B) Hydrogen",
+            "C) Lithium",
+            "D) Carbon"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What does CPU stand for?",
+        "options": [
+            "A) Central Processing Unit",
+            "B) Computer Personal Unit",
+            "C) Central Program Unit",
+            "D) Computer Processing Unit"
+        ],
+        "answer": "A",
+        "level": "medium"
+    },
+    {
+        "question": "Which country is famous for the Taj Mahal?",
+        "options": [
+            "A) Pakistan",
+            "B) Bangladesh",
+            "C) India",
+            "D) Nepal"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": [
+            "A) Gold",
+            "B) Iron",
+            "C) Diamond",
+            "D) Platinum"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which programming paradigm does Java primarily support?",
+        "options": [
+            "A) Functional",
+            "B) Object-Oriented",
+            "C) Procedural",
+            "D) Logic"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "options": [
+            "A) Yuan",
+            "B) Won",
+            "C) Yen",
+            "D) Rupiah"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which gas makes up approximately 78% of Earth's atmosphere?",
+        "options": [
+            "A) Oxygen",
+            "B) Carbon Dioxide",
+            "C) Nitrogen",
+            "D) Argon"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": [
+            "A) Vincent van Gogh",
+            "B) Pablo Picasso",
+            "C) Leonardo da Vinci",
+            "D) Michelangelo"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the speed of light in vacuum?",
+        "options": [
+            "A) 3 × 10^8 m/s",
+            "B) 3 × 10^6 m/s",
+            "C) 3 × 10^10 m/s",
+            "D) 3 × 10^9 m/s"
+        ],
+        "answer": "A",
+        "level": "medium"
+    },
+    {
+        "question": "Which database query language is most commonly used?",
+        "options": [
+            "A) NoSQL",
+            "B) SQL",
+            "C) GraphQL",
+            "D) XQuery"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the largest continent by area?",
+        "options": [
+            "A) Africa",
+            "B) North America",
+            "C) Asia",
+            "D) Europe"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which company developed the iPhone?",
+        "options": [
+            "A) Google",
+            "B) Microsoft",
+            "C) Samsung",
+            "D) Apple"
+        ],
+        "answer": "D",
+        "level": "medium"
+    },
+    {
+        "question": "What is the boiling point of water at sea level?",
+        "options": [
+            "A) 90°C",
+            "B) 100°C",
+            "C) 110°C",
+            "D) 120°C"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which protocol is used for secure web browsing?",
+        "options": [
+            "A) HTTP",
+            "B) FTP",
+            "C) HTTPS",
+            "D) SMTP"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the most abundant element in the universe?",
+        "options": [
+            "A) Oxygen",
+            "B) Carbon",
+            "C) Helium",
+            "D) Hydrogen"
+        ],
+        "answer": "D",
+        "level": "medium"
+    },
+    {
+        "question": "Which river is the longest in the world?",
+        "options": [
+            "A) Amazon",
+            "B) Nile",
+            "C) Mississippi",
+            "D) Yangtze"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What does API stand for?",
+        "options": [
+            "A) Application Programming Interface",
+            "B) Advanced Programming Interface",
+            "C) Application Process Interface",
+            "D) Advanced Process Interface"
+        ],
+        "answer": "A",
+        "level": "medium"
+    },
+    {
+        "question": "Which mountain range contains Mount Everest?",
+        "options": [
+            "A) Andes",
+            "B) Rocky Mountains",
+            "C) Himalayas",
+            "D) Alps"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the main component of the Sun?",
+        "options": [
+            "A) Oxygen",
+            "B) Carbon",
+            "C) Hydrogen",
+            "D) Helium"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which sorting algorithm has the best average-case time complexity?",
+        "options": [
+            "A) Bubble Sort",
+            "B) Selection Sort",
+            "C) Quick Sort",
+            "D) Insertion Sort"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "options": [
+            "A) Toronto",
+            "B) Vancouver",
+            "C) Montreal",
+            "D) Ottawa"
+        ],
+        "answer": "D",
+        "level": "medium"
+    },
+    {
+        "question": "Which data structure uses LIFO principle?",
+        "options": [
+            "A) Queue",
+            "B) Stack",
+            "C) Array",
+            "D) Linked List"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the chemical formula for water?",
+        "options": [
+            "A) H2O",
+            "B) CO2",
+            "C) NaCl",
+            "D) CH4"
+        ],
+        "answer": "A",
+        "level": "medium"
+    },
+    {
+        "question": "Which company owns YouTube?",
+        "options": [
+            "A) Facebook",
+            "B) Microsoft",
+            "C) Google",
+            "D) Amazon"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "options": [
+            "A) Liver",
+            "B) Brain",
+            "C) Skin",
+            "D) Heart"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which HTTP status code indicates 'Not Found'?",
+        "options": [
+            "A) 200",
+            "B) 301",
+            "C) 404",
+            "D) 500"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the study of earthquakes called?",
+        "options": [
+            "A) Geology",
+            "B) Seismology",
+            "C) Meteorology",
+            "D) Astronomy"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which version control system is most popular?",
+        "options": [
+            "A) SVN",
+            "B) Mercurial",
+            "C) Git",
+            "D) CVS"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the freezing point of water?",
+        "options": [
+            "A) -10°C",
+            "B) 0°C",
+            "C) 10°C",
+            "D) 32°C"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which planet has the most moons?",
+        "options": [
+            "A) Jupiter",
+            "B) Saturn",
+            "C) Uranus",
+            "D) Neptune"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What does JSON stand for?",
+        "options": [
+            "A) JavaScript Object Notation",
+            "B) Java Serialized Object Notation",
+            "C) JavaScript Oriented Notation",
+            "D) Java Standard Object Notation"
+        ],
+        "answer": "A",
+        "level": "medium"
+    },
+    {
+        "question": "Which country has the most time zones?",
+        "options": [
+            "A) United States",
+            "B) Russia",
+            "C) China",
+            "D) France"
+        ],
+        "answer": "D",
+        "level": "medium"
+    },
+    {
+        "question": "What is the primary function of mitochondria?",
+        "options": [
+            "A) Protein synthesis",
+            "B) Energy production",
+            "C) DNA storage",
+            "D) Waste removal"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which CSS property is used to change text color?",
+        "options": [
+            "A) font-color",
+            "B) text-color",
+            "C) color",
+            "D) background-color"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "options": [
+            "A) Sahara",
+            "B) Gobi",
+            "C) Antarctic",
+            "D) Arabian"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which programming language is known for its use in machine learning?",
+        "options": [
+            "A) C++",
+            "B) Java",
+            "C) Python",
+            "D) JavaScript"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the unit of electric current?",
+        "options": [
+            "A) Volt",
+            "B) Watt",
+            "C) Ampere",
+            "D) Ohm"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which social media platform uses hashtags?",
+        "options": [
+            "A) Facebook",
+            "B) LinkedIn",
+            "C) Twitter",
+            "D) All of the above"
+        ],
+        "answer": "D",
+        "level": "medium"
+    },
+    {
+        "question": "What is the most spoken language in the world?",
+        "options": [
+            "A) English",
+            "B) Spanish",
+            "C) Mandarin Chinese",
+            "D) Hindi"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which algorithm is used for finding the shortest path in a graph?",
+        "options": [
+            "A) Binary Search",
+            "B) Dijkstra's Algorithm",
+            "C) Bubble Sort",
+            "D) Linear Search"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the capital of Brazil?",
+        "options": [
+            "A) São Paulo",
+            "B) Rio de Janeiro",
+            "C) Brasília",
+            "D) Salvador"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which file format is commonly used for images on the web?",
+        "options": [
+            "A) TIFF",
+            "B) BMP",
+            "C) JPEG",
+            "D) RAW"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the process by which plants make food?",
+        "options": [
+            "A) Respiration",
+            "B) Photosynthesis",
+            "C) Digestion",
+            "D) Fermentation"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which cloud computing platform is provided by Amazon?",
+        "options": [
+            "A) Azure",
+            "B) Google Cloud",
+            "C) AWS",
+            "D) IBM Cloud"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the tallest building in the world?",
+        "options": [
+            "A) Empire State Building",
+            "B) Burj Khalifa",
+            "C) One World Trade Center",
+            "D) CN Tower"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which JavaScript framework is developed by Facebook?",
+        "options": [
+            "A) Angular",
+            "B) Vue.js",
+            "C) React",
+            "D) Ember.js"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the main gas in Earth's atmosphere?",
+        "options": [
+            "A) Oxygen",
+            "B) Carbon Dioxide",
+            "C) Nitrogen",
+            "D) Hydrogen"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which database is known as a NoSQL database?",
+        "options": [
+            "A) MySQL",
+            "B) PostgreSQL",
+            "C) MongoDB",
+            "D) SQLite"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the currency of the United Kingdom?",
+        "options": [
+            "A) Euro",
+            "B) Dollar",
+            "C) Pound Sterling",
+            "D) Franc"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which mammal is capable of true flight?",
+        "options": [
+            "A) Flying Squirrel",
+            "B) Bat",
+            "C) Sugar Glider",
+            "D) Flying Lemur"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What does URL stand for?",
+        "options": [
+            "A) Universal Resource Locator",
+            "B) Uniform Resource Locator",
+            "C) Universal Reference Link",
+            "D) Uniform Reference Link"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which continent is known as the 'Dark Continent'?",
+        "options": [
+            "A) Asia",
+            "B) South America",
+            "C) Africa",
+            "D) Australia"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the most popular web server software?",
+        "options": [
+            "A) IIS",
+            "B) Apache",
+            "C) Nginx",
+            "D) Tomcat"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which vitamin is produced when skin is exposed to sunlight?",
+        "options": [
+            "A) Vitamin A",
+            "B) Vitamin C",
+            "C) Vitamin D",
+            "D) Vitamin E"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the binary representation of decimal 10?",
+        "options": [
+            "A) 1010",
+            "B) 1100",
+            "C) 1001",
+            "D) 1110"
+        ],
+        "answer": "A",
+        "level": "medium"
+    },
+    {
+        "question": "Which country invented paper?",
+        "options": [
+            "A) Egypt",
+            "B) Greece",
+            "C) China",
+            "D) India"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the default port for HTTP?",
+        "options": [
+            "A) 21",
+            "B) 80",
+            "C) 443",
+            "D) 8080"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which organ produces insulin?",
+        "options": [
+            "A) Liver",
+            "B) Kidney",
+            "C) Pancreas",
+            "D) Heart"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the most used programming language in web development?",
+        "options": [
+            "A) Python",
+            "B) Java",
+            "C) JavaScript",
+            "D) C++"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which sea is the saltiest?",
+        "options": [
+            "A) Mediterranean Sea",
+            "B) Dead Sea",
+            "C) Red Sea",
+            "D) Black Sea"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What does RAM stand for?",
+        "options": [
+            "A) Random Access Memory",
+            "B) Read Access Memory",
+            "C) Rapid Access Memory",
+            "D) Remote Access Memory"
+        ],
+        "answer": "A",
+        "level": "medium"
+    },
+    {
+        "question": "Which country is home to Machu Picchu?",
+        "options": [
+            "A) Chile",
+            "B) Peru",
+            "C) Bolivia",
+            "D) Ecuador"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the primary component of natural gas?",
+        "options": [
+            "A) Ethane",
+            "B) Propane",
+            "C) Methane",
+            "D) Butane"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which CSS framework is developed by Twitter?",
+        "options": [
+            "A) Foundation",
+            "B) Bulma",
+            "C) Bootstrap",
+            "D) Materialize"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the deepest ocean trench?",
+        "options": [
+            "A) Puerto Rico Trench",
+            "B) Java Trench",
+            "C) Mariana Trench",
+            "D) Peru-Chile Trench"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which company created the Android operating system?",
+        "options": [
+            "A) Apple",
+            "B) Microsoft",
+            "C) Google",
+            "D) Samsung"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the study of stars called?",
+        "options": [
+            "A) Geology",
+            "B) Astronomy",
+            "C) Meteorology",
+            "D) Astrology"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which data type in Python is mutable?",
+        "options": [
+            "A) String",
+            "B) Tuple",
+            "C) List",
+            "D) Integer"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the largest island in the world?",
+        "options": [
+            "A) Madagascar",
+            "B) Greenland",
+            "C) New Guinea",
+            "D) Borneo"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which protocol is used for sending emails?",
+        "options": [
+            "A) HTTP",
+            "B) FTP",
+            "C) SMTP",
+            "D) TCP"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the most abundant gas in Mars' atmosphere?",
+        "options": [
+            "A) Oxygen",
+            "B) Nitrogen",
+            "C) Carbon Dioxide",
+            "D) Methane"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which search algorithm has O(log n) time complexity?",
+        "options": [
+            "A) Linear Search",
+            "B) Binary Search",
+            "C) Sequential Search",
+            "D) Brute Force Search"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the capital of Egypt?",
+        "options": [
+            "A) Alexandria",
+            "B) Cairo",
+            "C) Giza",
+            "D) Luxor"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which HTML tag is used for creating hyperlinks?",
+        "options": [
+            "A) <link>",
+            "B) <href>",
+            "C) <a>",
+            "D) <url>"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "options": [
+            "A) Nucleus",
+            "B) Ribosome",
+            "C) Mitochondria",
+            "D) Endoplasmic Reticulum"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which containerization platform is most popular?",
+        "options": [
+            "A) Podman",
+            "B) Docker",
+            "C) LXC",
+            "D) rkt"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the longest river in South America?",
+        "options": [
+            "A) Orinoco",
+            "B) Paraná",
+            "C) Amazon",
+            "D) Magdalena"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which method is used to add elements to a Python list?",
+        "options": [
+            "A) add()",
+            "B) insert()",
+            "C) append()",
+            "D) push()"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the smallest planet in our solar system?",
+        "options": [
+            "A) Venus",
+            "B) Mars",
+            "C) Mercury",
+            "D) Pluto"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which network topology connects all devices to a central hub?",
+        "options": [
+            "A) Ring",
+            "B) Bus",
+            "C) Star",
+            "D) Mesh"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the most widely used markup language for web pages?",
+        "options": [
+            "A) XML",
+            "B) HTML",
+            "C) SGML",
+            "D) XHTML"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which country has the most natural lakes?",
+        "options": [
+            "A) United States",
+            "B) Russia",
+            "C) Canada",
+            "D) Finland"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the main purpose of DNS?",
+        "options": [
+            "A) Data encryption",
+            "B) Domain name resolution",
+            "C) Network routing",
+            "D) File transfer"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which blood type is known as the universal donor?",
+        "options": [
+            "A) A+",
+            "B) B-",
+            "C) AB+",
+            "D) O-"
+        ],
+        "answer": "D",
+        "level": "medium"
+    },
+    {
+        "question": "What is the time complexity of accessing an element in an array?",
+        "options": [
+            "A) O(1)",
+            "B) O(n)",
+            "C) O(log n)",
+            "D) O(n²)"
+        ],
+        "answer": "A",
+        "level": "medium"
+    },
+    {
+        "question": "Which city is known as the 'Silicon Valley of India'?",
+        "options": [
+            "A) Mumbai",
+            "B) Bangalore",
+            "C) Hyderabad",
+            "D) Pune"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What does SSH stand for?",
+        "options": [
+            "A) Secure Shell",
+            "B) System Shell",
+            "C) Simple Shell",
+            "D) Safe Shell"
+        ],
+        "answer": "A",
+        "level": "medium"
+    },
+    {
+        "question": "Which instrument is used to measure atmospheric pressure?",
+        "options": [
+            "A) Thermometer",
+            "B) Barometer",
+            "C) Hygrometer",
+            "D) Anemometer"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the default port for HTTPS?",
+        "options": [
+            "A) 80",
+            "B) 443",
+            "C) 8080",
+            "D) 3000"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which programming concept allows a class to inherit properties from another class?",
+        "options": [
+            "A) Encapsulation",
+            "B) Polymorphism",
+            "C) Inheritance",
+            "D) Abstraction"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the largest bone in the human body?",
+        "options": [
+            "A) Tibia",
+            "B) Femur",
+            "C) Humerus",
+            "D) Fibula"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which sorting algorithm is most efficient for small datasets?",
+        "options": [
+            "A) Merge Sort",
+            "B) Quick Sort",
+            "C) Insertion Sort",
+            "D) Heap Sort"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the capital of South Korea?",
+        "options": [
+            "A) Busan",
+            "B) Seoul",
+            "C) Incheon",
+            "D) Daegu"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which HTTP method is used to retrieve data from a server?",
+        "options": [
+            "A) POST",
+            "B) PUT",
+            "C) GET",
+            "D) DELETE"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the study of fungi called?",
+        "options": [
+            "A) Botany",
+            "B) Mycology",
+            "C) Zoology",
+            "D) Ecology"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which JavaScript method is used to remove the last element from an array?",
+        "options": [
+            "A) remove()",
+            "B) delete()",
+            "C) pop()",
+            "D) shift()"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the driest continent?",
+        "options": [
+            "A) Africa",
+            "B) Australia",
+            "C) Antarctica",
+            "D) Asia"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which design pattern ensures a class has only one instance?",
+        "options": [
+            "A) Factory",
+            "B) Observer",
+            "C) Singleton",
+            "D) Strategy"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the most common blood type?",
+        "options": [
+            "A) A+",
+            "B) B+",
+            "C) O+",
+            "D) AB+"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which command is used to create a new directory in Linux?",
+        "options": [
+            "A) newdir",
+            "B) createdir",
+            "C) mkdir",
+            "D) makedir"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the largest internal organ in the human body?",
+        "options": [
+            "A) Brain",
+            "B) Liver",
+            "C) Lungs",
+            "D) Heart"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which web framework is built on top of Node.js?",
+        "options": [
+            "A) Django",
+            "B) Flask",
+            "C) Express.js",
+            "D) Spring"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the hottest planet in our solar system?",
+        "options": [
+            "A) Mercury",
+            "B) Venus",
+            "C) Mars",
+            "D) Jupiter"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which data structure follows FIFO principle?",
+        "options": [
+            "A) Stack",
+            "B) Queue",
+            "C) Array",
+            "D) Tree"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the capital of Argentina?",
+        "options": [
+            "A) Córdoba",
+            "B) Buenos Aires",
+            "C) Rosario",
+            "D) Mendoza"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which CSS property is used to control the spacing between lines of text?",
+        "options": [
+            "A) letter-spacing",
+            "B) word-spacing",
+            "C) line-height",
+            "D) text-spacing"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the process of converting source code into machine code called?",
+        "options": [
+            "A) Interpretation",
+            "B) Compilation",
+            "C) Execution",
+            "D) Debugging"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": [
+            "A) China",
+            "B) South Korea",
+            "C) Japan",
+            "D) Thailand"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the main component of computer memory?",
+        "options": [
+            "A) Transistors",
+            "B) Capacitors",
+            "C) Resistors",
+            "D) Diodes"
+        ],
+        "answer": "A",
+        "level": "medium"
+    },
+    {
+        "question": "Which force keeps planets in orbit around the Sun?",
+        "options": [
+            "A) Magnetic force",
+            "B) Electromagnetic force",
+            "C) Gravitational force",
+            "D) Nuclear force"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What does IDE stand for in software development?",
+        "options": [
+            "A) Integrated Development Environment",
+            "B) Interactive Development Environment",
+            "C) Internal Development Environment",
+            "D) Individual Development Environment"
+        ],
+        "answer": "A",
+        "level": "medium"
+    },
+    {
+        "question": "Which mammal lays eggs?",
+        "options": [
+            "A) Kangaroo",
+            "B) Platypus",
+            "C) Koala",
+            "D) Wombat"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the most popular relational database management system?",
+        "options": [
+            "A) Oracle",
+            "B) MySQL",
+            "C) PostgreSQL",
+            "D) SQL Server"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which organ is responsible for filtering blood?",
+        "options": [
+            "A) Liver",
+            "B) Heart",
+            "C) Kidney",
+            "D) Spleen"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the time complexity of bubble sort in the worst case?",
+        "options": [
+            "A) O(n)",
+            "B) O(n log n)",
+            "C) O(n²)",
+            "D) O(1)"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which continent has the most countries?",
+        "options": [
+            "A) Asia",
+            "B) Europe",
+            "C) Africa",
+            "D) South America"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What does XML stand for?",
+        "options": [
+            "A) eXtensible Markup Language",
+            "B) eXtended Markup Language",
+            "C) eXternal Markup Language",
+            "D) eXecutable Markup Language"
+        ],
+        "answer": "A",
+        "level": "medium"
+    },
+    {
+        "question": "Which gas is commonly known as laughing gas?",
+        "options": [
+            "A) Carbon Dioxide",
+            "B) Nitrous Oxide",
+            "C) Oxygen",
+            "D) Methane"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the primary key in a database?",
+        "options": [
+            "A) A key that unlocks the database",
+            "B) A unique identifier for each record",
+            "C) The first column in a table",
+            "D) A password for database access"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which country has the longest coastline?",
+        "options": [
+            "A) Russia",
+            "B) Australia",
+            "C) Canada",
+            "D) United States"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the main function of the CPU in a computer?",
+        "options": [
+            "A) Store data",
+            "B) Display graphics",
+            "C) Execute instructions",
+            "D) Connect to internet"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which scientist developed the theory of evolution?",
+        "options": [
+            "A) Isaac Newton",
+            "B) Albert Einstein",
+            "C) Charles Darwin",
+            "D) Galileo Galilei"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the default file extension for Python files?",
+        "options": [
+            "A) .python",
+            "B) .py",
+            "C) .pyt",
+            "D) .pt"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which ocean current is responsible for Europe's mild climate?",
+        "options": [
+            "A) California Current",
+            "B) Gulf Stream",
+            "C) Kuroshio Current",
+            "D) Canary Current"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the purpose of a firewall in network security?",
+        "options": [
+            "A) Encrypt data",
+            "B) Block unauthorized access",
+            "C) Speed up internet",
+            "D) Store passwords"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which vitamin helps in blood clotting?",
+        "options": [
+            "A) Vitamin A",
+            "B) Vitamin C",
+            "C) Vitamin D",
+            "D) Vitamin K"
+        ],
+        "answer": "D",
+        "level": "medium"
+    },
+    {
+        "question": "What is the hexadecimal representation of decimal 255?",
+        "options": [
+            "A) FF",
+            "B) FE",
+            "C) EF",
+            "D) EE"
+        ],
+        "answer": "A",
+        "level": "medium"
+    },
+    {
+        "question": "Which ancient wonder of the world was located in Egypt?",
+        "options": [
+            "A) Hanging Gardens",
+            "B) Colossus of Rhodes",
+            "C) Great Pyramid of Giza",
+            "D) Lighthouse of Alexandria"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the main advantage of using cloud computing?",
+        "options": [
+            "A) Higher security",
+            "B) Lower costs",
+            "C) Scalability",
+            "D) All of the above"
+        ],
+        "answer": "D",
+        "level": "medium"
+    },
+    {
+        "question": "Which part of the brain controls balance and coordination?",
+        "options": [
+            "A) Cerebrum",
+            "B) Cerebellum",
+            "C) Medulla",
+            "D) Hypothalamus"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the most commonly used encryption algorithm?",
+        "options": [
+            "A) DES",
+            "B) RSA",
+            "C) AES",
+            "D) Blowfish"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which country is both in Europe and Asia?",
+        "options": [
+            "A) Russia",
+            "B) Kazakhstan",
+            "C) Turkey",
+            "D) All of the above"
+        ],
+        "answer": "D",
+        "level": "medium"
+    },
+    {
+        "question": "What is the main component of sand?",
+        "options": [
+            "A) Calcium carbonate",
+            "B) Silicon dioxide",
+            "C) Iron oxide",
+            "D) Aluminum oxide"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which testing technique examines the internal structure of code?",
+        "options": [
+            "A) Black box testing",
+            "B) White box testing",
+            "C) Gray box testing",
+            "D) Integration testing"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the fastest land animal?",
+        "options": [
+            "A) Lion",
+            "B) Leopard",
+            "C) Cheetah",
+            "D) Jaguar"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which protocol is used for secure file transfer?",
+        "options": [
+            "A) FTP",
+            "B) HTTP",
+            "C) SFTP",
+            "D) SMTP"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the most reactive metal?",
+        "options": [
+            "A) Sodium",
+            "B) Potassium",
+            "C) Cesium",
+            "D) Lithium"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which software development methodology emphasizes iterative development?",
+        "options": [
+            "A) Waterfall",
+            "B) Agile",
+            "C) Spiral",
+            "D) V-Model"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the capital of Russia?",
+        "options": [
+            "A) St. Petersburg",
+            "B) Moscow",
+            "C) Novosibirsk",
+            "D) Kazan"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which data structure is best for implementing recursion?",
+        "options": [
+            "A) Array",
+            "B) Queue",
+            "C) Stack",
+            "D) Linked List"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the most abundant protein in the human body?",
+        "options": [
+            "A) Hemoglobin",
+            "B) Insulin",
+            "C) Collagen",
+            "D) Keratin"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which company developed the first commercial microprocessor?",
+        "options": [
+            "A) IBM",
+            "B) Intel",
+            "C) AMD",
+            "D) Motorola"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the study of weather called?",
+        "options": [
+            "A) Geology",
+            "B) Meteorology",
+            "C) Climatology",
+            "D) Hydrology"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which programming language is primarily used for iOS development?",
+        "options": [
+            "A) Java",
+            "B) Kotlin",
+            "C) Swift",
+            "D) Objective-C"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the largest lake in Africa?",
+        "options": [
+            "A) Lake Chad",
+            "B) Lake Tanganyika",
+            "C) Lake Victoria",
+            "D) Lake Malawi"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which algorithm is used for data compression?",
+        "options": [
+            "A) Dijkstra's",
+            "B) Huffman Coding",
+            "C) Binary Search",
+            "D) Quick Sort"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the strongest muscle in the human body?",
+        "options": [
+            "A) Bicep",
+            "B) Quadriceps",
+            "C) Heart",
+            "D) Jaw muscle"
+        ],
+        "answer": "D",
+        "level": "medium"
+    },
+    {
+        "question": "Which technology is used for creating smart contracts?",
+        "options": [
+            "A) AI",
+            "B) IoT",
+            "C) Blockchain",
+            "D) Cloud Computing"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the coldest planet in our solar system?",
+        "options": [
+            "A) Neptune",
+            "B) Uranus",
+            "C) Pluto",
+            "D) Saturn"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which operator is used for exponentiation in Python?",
+        "options": [
+            "A) ^",
+            "B) **",
+            "C) ^^",
+            "D) pow"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the most spoken language in South America?",
+        "options": [
+            "A) Spanish",
+            "B) Portuguese",
+            "C) English",
+            "D) French"
+        ],
+        "answer": "A",
+        "level": "medium"
+    },
+    {
+        "question": "Which network protocol is used for domain name resolution?",
+        "options": [
+            "A) HTTP",
+            "B) FTP",
+            "C) DNS",
+            "D) SMTP"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the process of cell division called?",
+        "options": [
+            "A) Meiosis",
+            "B) Mitosis",
+            "C) Both A and B",
+            "D) Photosynthesis"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which markup language is used for creating mobile applications?",
+        "options": [
+            "A) HTML",
+            "B) XML",
+            "C) XAML",
+            "D) JSON"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the largest mammal in the ocean?",
+        "options": [
+            "A) Sperm Whale",
+            "B) Blue Whale",
+            "C) Humpback Whale",
+            "D) Orca"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which company owns the Windows operating system?",
+        "options": [
+            "A) Apple",
+            "B) Google",
+            "C) Microsoft",
+            "D) IBM"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the unit of frequency?",
+        "options": [
+            "A) Hertz",
+            "B) Watt",
+            "C) Joule",
+            "D) Ampere"
+        ],
+        "answer": "A",
+        "level": "medium"
+    },
+    {
+        "question": "Which continent is known as the 'Cradle of Humanity'?",
+        "options": [
+            "A) Asia",
+            "B) Europe",
+            "C) Africa",
+            "D) South America"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the main purpose of version control systems?",
+        "options": [
+            "A) Bug tracking",
+            "B) Code compilation",
+            "C) Track changes in code",
+            "D) Performance testing"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which blood component is responsible for clotting?",
+        "options": [
+            "A) Red blood cells",
+            "B) White blood cells",
+            "C) Platelets",
+            "D) Plasma"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the time complexity of linear search?",
+        "options": [
+            "A) O(1)",
+            "B) O(log n)",
+            "C) O(n)",
+            "D) O(n²)"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which country is famous for tulips and windmills?",
+        "options": [
+            "A) Belgium",
+            "B) Netherlands",
+            "C) Denmark",
+            "D) Germany"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What does CRUD stand for in database operations?",
+        "options": [
+            "A) Create, Read, Update, Delete",
+            "B) Connect, Read, Update, Deploy",
+            "C) Create, Retrieve, Update, Deploy",
+            "D) Connect, Retrieve, Update, Delete"
+        ],
+        "answer": "A",
+        "level": "medium"
+    },
+    {
+        "question": "Which hormone regulates blood sugar levels?",
+        "options": [
+            "A) Adrenaline",
+            "B) Insulin",
+            "C) Cortisol",
+            "D) Thyroxine"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the most popular text editor among developers?",
+        "options": [
+            "A) Notepad++",
+            "B) Sublime Text",
+            "C) Visual Studio Code",
+            "D) Atom"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which river flows through London?",
+        "options": [
+            "A) Seine",
+            "B) Thames",
+            "C) Rhine",
+            "D) Danube"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the primary function of a router in networking?",
+        "options": [
+            "A) Store data",
+            "B) Route packets",
+            "C) Provide security",
+            "D) Amplify signals"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which gland is known as the master gland?",
+        "options": [
+            "A) Thyroid",
+            "B) Adrenal",
+            "C) Pituitary",
+            "D) Pancreas"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the space complexity of merge sort?",
+        "options": [
+            "A) O(1)",
+            "B) O(log n)",
+            "C) O(n)",
+            "D) O(n²)"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which country is known as the Land of Fire and Ice?",
+        "options": [
+            "A) Norway",
+            "B) Iceland",
+            "C) Finland",
+            "D) Greenland"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What does MVC stand for in software architecture?",
+        "options": [
+            "A) Model View Controller",
+            "B) Multiple View Component",
+            "C) Main View Controller",
+            "D) Model Virtual Controller"
+        ],
+        "answer": "A",
+        "level": "medium"
+    },
+    {
+        "question": "Which planet is closest to the Sun?",
+        "options": [
+            "A) Venus",
+            "B) Earth",
+            "C) Mercury",
+            "D) Mars"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the chemical symbol for silver?",
+        "options": [
+            "A) Si",
+            "B) Ag",
+            "C) Sl",
+            "D) Sr"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which design pattern is used to create objects without specifying their exact classes?",
+        "options": [
+            "A) Singleton",
+            "B) Factory",
+            "C) Observer",
+            "D) Strategy"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the capital of Mexico?",
+        "options": [
+            "A) Guadalajara",
+            "B) Monterrey",
+            "C) Mexico City",
+            "D) Tijuana"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which HTTP status code indicates a successful request?",
+        "options": [
+            "A) 100",
+            "B) 200",
+            "C) 300",
+            "D) 400"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the largest species of shark?",
+        "options": [
+            "A) Great White Shark",
+            "B) Tiger Shark",
+            "C) Whale Shark",
+            "D) Hammerhead Shark"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which programming language is known for its use in Android development?",
+        "options": [
+            "A) Swift",
+            "B) Kotlin",
+            "C) C#",
+            "D) Ruby"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "What is the longest mountain range in the world?",
+        "options": [
+            "A) Rocky Mountains",
+            "B) Himalayas",
+            "C) Andes",
+            "D) Alps"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which database operation is used to retrieve data?",
+        "options": [
+            "A) INSERT",
+            "B) UPDATE",
+            "C) SELECT",
+            "D) DELETE"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the smallest bone in the human body?",
+        "options": [
+            "A) Stapes",
+            "B) Malleus",
+            "C) Incus",
+            "D) Hyoid"
+        ],
+        "answer": "A",
+        "level": "medium"
+    },
+    {
+        "question": "Which framework is commonly used for machine learning in Python?",
+        "options": [
+            "A) Django",
+            "B) Flask",
+            "C) TensorFlow",
+            "D) Bottle"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the currency of China?",
+        "options": [
+            "A) Yen",
+            "B) Won",
+            "C) Yuan",
+            "D) Ringgit"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which sorting algorithm is stable and has O(n log n) time complexity?",
+        "options": [
+            "A) Quick Sort",
+            "B) Heap Sort",
+            "C) Merge Sort",
+            "D) Selection Sort"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the deepest point on Earth's surface?",
+        "options": [
+            "A) Dead Sea",
+            "B) Death Valley",
+            "C) Mariana Trench",
+            "D) Lake Baikal"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "Which command is used to list files in a Unix/Linux directory?",
+        "options": [
+            "A) dir",
+            "B) list",
+            "C) ls",
+            "D) show"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What type of animal is a dolphin?",
+        "options": [
+            "A) Fish",
+            "B) Mammal",
+            "C) Reptile",
+            "D) Amphibian"
+        ],
+        "answer": "B",
+        "level": "medium"
+    },
+    {
+        "question": "Which web technology is used for styling web pages?",
+        "options": [
+            "A) HTML",
+            "B) JavaScript",
+            "C) CSS",
+            "D) PHP"
+        ],
+        "answer": "C",
+        "level": "medium"
+    },
+    {
+        "question": "What is the most abundant element in Earth's crust?",
+        "options": [
+            "A) Silicon",
+            "B) Aluminum",
+            "C) Iron",
+            "D) Oxygen"
+        ],
+        "answer": "D",
+        "level": "medium"
+    },
+    {
+        "question": "Which company developed the Java programming language?",
+        "options": [
+            "A) Microsoft",
+            "B) Oracle",
+            "C) Sun Microsystems",
+            "D) IBM"
+        ],
+        "answer": "C",
+        "level": "medium"
+    }
+]
